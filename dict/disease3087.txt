@@ -1,0 +1,3088 @@
+Disease_UMLSID	MeSH Disease Terms 
+C0000735	Abdominal Neoplasms
+C0000737	Abdominal Pain
+C0000744	Abetalipoproteinemia
+C0000768	Abnormalities
+C0000769	Abnormalities
+C0000771	Abnormalities, Drug-Induced
+C0000772	Abnormalities, Multiple
+C0000786	Abortion, Spontaneous
+C0000809	Abortion, Habitual
+C0000810	Incomplete spontaneous abortion
+C0000814	Abortion, Missed
+C0000832	Abruptio Placentae
+C0000833	Abscess
+C0000849	Absenteeism
+C0000889	Acanthosis Nigricans
+C0001072	Achievement
+C0001075	Achlorhydria
+C0001080	Achondroplasia
+C0001122	Acidosis
+C0001125	Acidosis, Lactic
+C0001126	Renal tubular acidosis
+C0001144	Acne Vulgaris
+C0001163	Vestibulocochlear Nerve Diseases
+C0001175	Acquired Immunodeficiency Syndrome
+C0001206	Acromegaly
+C0001207	Hypersomatotropic gigantism
+C0001261	Actinomycosis
+C0001263	Abdominal actinomycosis
+C0001264	Cervicofacial actinomycosis
+C0001314	Acute Disease
+C0001349	Acute-Phase Reaction
+C0001403	Addison Disease
+C0001418	Adenocarcinoma
+C0001420	Adenocarcinoma, Papillary
+C0001422	Adenofibroma
+C0001430	Adenoma
+C0001432	Adenoma, Chromophobe
+C0001433	Adenoma, Acidophil
+C0001487	Adenovirus Infections, Human
+C0001511	Adhesions
+C0001584	Adolescent Psychology
+C0001614	Adrenal Cortex Diseases
+C0001618	Adrenal Cortex Neoplasms
+C0001622	Adrenocortical Hyperfunction
+C0001623	Adrenal Insufficiency
+C0001624	Adrenal Gland Neoplasms
+C0001627	Adrenal Hyperplasia, Congenital
+C0001630	Adrenal Rest Tumor
+C0001723	Affective Disorders, Psychotic
+C0001768	Agammaglobulinemia
+C0001815	Primary Myelofibrosis
+C0001818	Agoraphobia
+C0001824	Agranulocytosis
+C0001828	Agricultural Workers' Diseases
+C0001849	AIDS Dementia Complex
+C0001883	Airway Obstruction
+C0001925	Albuminuria
+C0001940	Alcohol Amnestic Disorder
+C0001957	Alcohol Withdrawal Delirium
+C0001969	Alcoholic Intoxication
+C0001973	Alcoholism
+C0002063	Alkalosis
+C0002170	Alopecia
+C0002171	Alopecia Areata
+C0002312	alpha-Thalassemia
+C0002351	Altitude Sickness
+C0002382	Alveolar Bone Loss
+C0002390	Alveolitis, Extrinsic Allergic
+C0002395	Alzheimer Disease
+C0002438	Amebiasis
+C0002440	Chronic intestinal amebiasis
+C0002448	Ameloblastoma
+C0002453	Amenorrhea
+C0002514	Amino Acid Metabolism, Inborn Errors
+C0002534	Renal Aminoacidurias
+C0002622	Amnesia
+C0002726	Amyloidosis
+C0002736	Amyotrophic Lateral Sclerosis
+C0002792	Anaphylaxis
+C0002871	Anemia
+C0002874	Anemia, Aplastic
+C0002875	Cooley's anemia
+C0002878	Anemia, Hemolytic
+C0002880	Anemia, Hemolytic, Autoimmune
+C0002882	Anemia, Hemolytic, Congenital Nonspherocytic
+C0002884	Anemia, Hypochromic
+C0002888	Anemia, Megaloblastic
+C0002892	Anemia, Pernicious
+C0002893	Anemia, Refractory
+C0002895	Anemia, Sickle Cell
+C0002902	Anencephaly
+C0002938	Aneuploidy
+C0002940	Aneurysm
+C0002949	Aneurysm, Dissecting
+C0002962	Angina Pectoris
+C0002963	Angina Pectoris, Variant
+C0002965	Angina, Unstable
+C0002982	Angioid Streaks
+C0002986	Fabry Disease
+C0002994	Angioneurotic Edema
+C0003090	Ankylosis
+C0003113	Anomia
+C0003123	Anorexia
+C0003125	Anorexia Nervosa
+C0003128	Anovulation
+C0003129	Anoxemia
+C0003130	Anoxia
+C0003165	Anthracosis
+C0003175	Anthrax disease
+C0003177	Cutaneous anthrax
+C0003184	Anthropology
+C0003431	Antisocial Personality Disorder
+C0003462	Anus Diseases
+C0003463	Anus Neoplasms
+C0003467	Anxiety
+C0003469	Anxiety Disorders
+C0003477	Anxiety, Separation
+C0003486	Aortic Aneurysm
+C0003492	Aortic Coarctation
+C0003493	Aortic Diseases
+C0003496	Aortic Rupture
+C0003499	Aortic Stenosis, Supravalvular
+C0003504	Aortic Valve Insufficiency
+C0003507	Aortic Valve Stenosis
+C0003509	Aortitis
+C0003537	Aphasia
+C0003578	Apnea
+C0003615	Appendicitis
+C0003618	Appetite
+C0003646	Aptitude
+C0003808	Arousal
+C0003811	Arrhythmia
+C0003838	Arterial Occlusive Diseases
+C0003850	Arteriosclerosis
+C0003851	Arteriosclerosis Obliterans
+C0003857	Arteriovenous Malformations
+C0003860	Arteritis
+C0003862	Arthralgia
+C0003864	Arthritis
+C0003868	Arthritis, Gouty
+C0003872	Arthritis, Psoriatic
+C0003873	Arthritis, Rheumatoid
+C0003886	Arthrogryposis
+C0003892	Arthropathy, Neurogenic
+C0003910	Articulation Disorders
+C0003949	Asbestosis
+C0003950	Ascariasis
+C0003962	Ascites
+C0003969	Ascorbic Acid Deficiency
+C0004030	Aspergillosis
+C0004031	Aspergillosis, Allergic Bronchopulmonary
+C0004044	Asphyxia
+C0004045	Asphyxia Neonatorum
+C0004084	Association Learning
+C0004093	Asthenia
+C0004096	Asthma
+C0004099	Asthma, Exercise-Induced
+C0004114	Astrocytoma
+C0004134	Ataxia
+C0004135	Ataxia Telangiectasia
+C0004153	Atherosclerosis
+C0004238	Atrial Fibrillation
+C0004239	Atrial Flutter
+C0004245	Atrioventricular Block
+C0004268	Attention
+C0004309	Auditory Perception
+C0004310	Auditory Perceptual Disorders
+C0004312	Auditory Threshold
+C0004352	Autistic Disorder
+C0004364	Autoimmune Diseases
+C0004442	Avoidance Learning
+C0004448	Awareness
+C0004509	Azoospermia
+C0004604	Back Pain
+C0004610	Bacteremia
+C0004623	Bacterial Infections
+C0004626	Pneumonia, Bacterial
+C0004659	Bacteriuria
+C0004698	Balkan Nephropathy
+C0004763	Barrett Esophagus
+C0004771	Bartonella Infections
+C0004779	Basal Cell Nevus Syndrome
+C0004782	Basal Ganglia Diseases
+C0004903	Beckwith-Wiedemann Syndrome
+C0004933	Behavior Therapy
+C0004936	Mental Disorders
+C0004943	Behcet Syndrome
+C0004945	Bejel
+C0005129	Bernard-Soulier Syndrome
+C0005138	Berylliosis
+C0005283	beta-Thalassemia
+C0005396	Bile Duct Neoplasms
+C0005411	Biliary Atresia
+C0005424	Biliary Tract Diseases
+C0005426	Biliary Tract Neoplasms
+C0005586	Bipolar Disorder
+C0005587	Depression, Bipolar
+C0005592	Bird Fancier's Lung
+C0005612	Birth Weight
+C0005684	Malignant neoplasm of urinary bladder
+C0005695	Urinary Bladder Neoplasms
+C0005697	Neurogenic Urinary Bladder
+C0005699	Blast Crisis
+C0005716	Blastomycosis
+C0005743	Blepharoconjunctivitis
+C0005747	Blepharospasm
+C0005779	Blood Coagulation Disorders
+C0005806	Blood Group Incompatibility
+C0005818	Blood Platelet Disorders
+C0005859	Bloom Syndrome
+C0005874	Blushing
+C0005891	Body Image
+C0005940	Bone Diseases
+C0005941	Bone Diseases, Developmental
+C0005944	Bone Diseases, Metabolic
+C0005956	Bone Marrow Diseases
+C0005967	Bone Neoplasms
+C0005974	Bone Resorption
+C0006012	Borderline Personality Disorder
+C0006057	Botulism
+C0006060	Boutonneuse Fever
+C0006079	Bowen's Disease
+C0006105	Brain Abscess
+C0006107	Brain Concussion
+C0006109	Brain Damage, Chronic
+C0006110	Brain Death
+C0006111	Brain Diseases
+C0006114	Cerebral Edema
+C0006118	Brain Neoplasms
+C0006145	Breast Diseases
+C0006181	Brill-Zinsser Disease
+C0006266	Bronchial Spasm
+C0006267	Bronchiectasis
+C0006271	Bronchiolitis
+C0006272	Bronchiolitis Obliterans
+C0006274	Bronchiolitis, Viral
+C0006277	Bronchitis
+C0006285	Bronchopneumonia
+C0006287	Bronchopulmonary Dysplasia
+C0006309	Brucellosis
+C0006370	Bulimia
+C0006384	Bundle-Branch Block
+C0006413	Burkitt Lymphoma
+C0006430	Burning Mouth Syndrome
+C0006433	Burnout, Professional
+C0006434	Burns
+C0006444	Bursitis
+C0006542	Byssinosis
+C0006625	Cachexia
+C0006629	Cadaver
+C0006635	Cadmium Poisoning
+C0006663	Calcinosis
+C0006705	Calcium Metabolism Disorders
+C0006736	Calculi
+C0006818	Campylobacter Infections
+C0006840	Candidiasis
+C0006846	Candidiasis, Cutaneous
+C0006848	Mucocutaneous candidiasis
+C0006849	Candidiasis, Oral
+C0007001	Carbohydrate Metabolism, Inborn Errors
+C0007095	Carcinoid Tumor
+C0007097	Carcinoma
+C0007099	Carcinoma in Situ
+C0007102	Malignant tumor of colon
+C0007115	Malignant neoplasm of thyroid
+C0007117	Carcinoma, Basal Cell
+C0007120	Adenocarcinoma, Bronchiolo-Alveolar
+C0007124	Carcinoma, Intraductal, Noninfiltrating
+C0007130	Adenocarcinoma, Mucinous
+C0007131	Carcinoma, Non-Small-Cell Lung
+C0007133	Carcinoma, Papillary
+C0007134	Carcinoma, Renal Cell
+C0007137	Carcinoma, Squamous Cell
+C0007138	Carcinoma, Transitional Cell
+C0007166	Cardiac Output, Low
+C0007192	Cardiomyopathy, Alcoholic
+C0007193	Cardiomyopathy, Dilated
+C0007194	Cardiomyopathy, Hypertrophic
+C0007196	Cardiomyopathy, Restrictive
+C0007222	Cardiovascular Diseases
+C0007273	Carotid Artery Diseases
+C0007274	Carotid Artery Thrombosis
+C0007279	Carotid Body Tumor
+C0007282	Carotid Stenosis
+C0007286	Carpal Tunnel Syndrome
+C0007384	Cataplexy
+C0007397	Catastrophic Illness
+C0007570	Celiac Disease
+C0007621	Cell Transformation, Neoplastic
+C0007622	Cell Transformation, Viral
+C0007642	Cellulitis
+C0007682	Central Nervous System Diseases
+C0007758	Cerebellar Ataxia
+C0007760	Cerebellar Diseases
+C0007762	Cerebellar Neoplasms
+C0007766	Intracranial Aneurysm
+C0007771	Intracranial Arteriosclerosis
+C0007772	Intracranial Arteriovenous Malformations
+C0007774	Cerebral Arterial Diseases
+C0007780	Cerebral Embolism
+C0007781	Intracranial Embolism and Thrombosis
+C0007784	Cerebral Hemorrhage
+C0007785	Cerebral Infarction
+C0007786	Brain Ischemia
+C0007787	Ischemic Attack, Transient
+C0007789	Cerebral Palsy
+C0007795	Diffuse Cerebral Sclerosis of Schilder
+C0007820	Cerebrovascular Disorders
+C0007847	Malignant tumor of cervix
+C0007859	Neck Pain
+C0007867	Uterine Cervical Diseases
+C0007868	Uterine Cervical Dysplasia
+C0007871	Uterine Cervical Incompetence
+C0007873	Uterine Cervical Neoplasms
+C0007930	Chagas Cardiomyopathy
+C0007947	Chancroids
+C0007959	Charcot-Marie-Tooth Disease
+C0007971	Cheilitis
+C0008031	Chest Pain
+C0008049	Chickenpox
+C0008066	Child Behavior Disorders
+C0008073	Developmental Disabilities
+C0008074	Child Development Disorders, Pervasive
+C0008087	Child Nutrition Disorders
+C0008089	Child Psychology
+C0008149	Chlamydia Infections
+C0008300	Choice Behavior
+C0008311	Cholangitis
+C0008312	Primary biliary cirrhosis
+C0008313	Cholangitis, Sclerosing
+C0008325	Cholecystitis
+C0008340	Choledochal Cyst
+C0008350	Cholelithiasis
+C0008354	Cholera
+C0008370	Cholestasis
+C0008372	Cholestasis, Intrahepatic
+C0008412	Choline Deficiency
+C0008479	Chondrosarcoma
+C0008495	Chorioamnionitis
+C0008497	Choriocarcinoma
+C0008513	Chorioretinitis
+C0008521	Choroid Diseases
+C0008526	Choroiditis
+C0008533	Hemophilia_B
+C0008582	Chromoblastomycosis
+C0008625	Chromosome Aberrations
+C0008626	Chromosome Disorders
+C0008628	Chromosome Deletion
+C0008677	Bronchitis, Chronic
+C0008679	Chronic Disease
+C0008728	Churg-Strauss Syndrome
+C0008733	Chylothorax
+C0008767	Cicatrix
+C0008780	Ciliary Motility Disorders
+C0008924	Cleft Lip
+C0008925	Cleft Palate
+C0008928	Cleidocranial Dysplasia
+C0009021	Clonorchiasis
+C0009062	Clostridium Infections
+C0009081	Clubfoot
+C0009088	Cluster Headache
+C0009181	Cocarcinogenesis
+C0009186	Coccidioidomycosis
+C0009207	Cockayne Syndrome
+C0009240	Cognition
+C0009241	Cognition Disorders
+C0009244	Cognitive Therapy
+C0009319	Colitis
+C0009324	Colitis, Ulcerative
+C0009353	Colles' Fracture
+C0009363	Coloboma
+C0009374	Colonic Diseases, Functional
+C0009375	Colonic Neoplasms
+C0009376	Colonic Polyps
+C0009395	Color Perception
+C0009398	Color Vision Defects
+C0009404	Colorectal Neoplasms
+C0009405	Colorectal Neoplasms, Hereditary Nonpolyposis
+C0009426	Combat Disorders
+C0009442	Common Bile Duct Neoplasms
+C0009443	Common Cold
+C0009447	Common Variable Immunodeficiency
+C0009450	Communicable Diseases
+C0009460	Communication Disorders
+C0009475	Community Mental Health Services
+C0009636	Concept Formation
+C0009647	Conditioning (Psychology)
+C0009649	Conditioning, Classical
+C0009651	Conditioning, Operant
+C0009663	Condylomata Acuminata
+C0009669	Confidentiality
+C0009676	Confusion
+C0009759	Conjunctival Diseases
+C0009761	Conjunctival Neoplasms
+C0009763	Conjunctivitis
+C0009766	Conjunctivitis, Allergic
+C0009768	Bacterial conjunctivitis
+C0009769	Conjunctivitis, Giant Papillary
+C0009770	Inclusion conjunctivitis
+C0009773	Conjunctivitis, Vernal
+C0009782	Connective Tissue Diseases
+C0009806	Constipation
+C0009940	Convalescence
+C0009952	Seizures, Febrile
+C0010032	Corneal abrasion
+C0010034	Corneal Diseases
+C0010035	Corneal Dystrophies, Hereditary
+C0010043	Corneal Ulcer
+C0010051	Coronary Aneurysm
+C0010068	Coronary Disease
+C0010072	Coronary Thrombosis
+C0010073	Coronary Vasospasm
+C0010074	Coronary Vessel Anomalies
+C0010200	Cough
+C0010210	Counseling
+C0010246	Coxsackievirus Infections
+C0010273	Craniofacial Dysostosis
+C0010278	Craniosynostoses
+C0010297	Creativeness
+C0010308	Congenital Hypothyroidism
+C0010324	Crigler-Najjar Syndrome
+C0010329	Criminal Psychology
+C0010340	Critical Illness
+C0010346	Crohn Disease
+C0010356	Cross Infection
+C0010403	Cryoglobulinemia
+C0010414	Cryptococcosis
+C0010417	Cryptorchidism
+C0010418	Cryptosporidiosis
+C0010439	Cues
+C0010481	Cushing Syndrome
+C0010543	Cyclitis
+C0010598	Cyclothymic Disorder
+C0010631	Cystadenocarcinoma
+C0010674	Cystic Fibrosis
+C0010691	Cystinuria
+C0010692	Cystitis
+C0010695	Cystocele
+C0010709	Cysts
+C0010823	Cytomegalovirus Infections
+C0010930	Dacryocystitis
+C0010996	Data Display
+C0011057	Hearing Loss, Sudden
+C0011065	Death
+C0011071	Death, Sudden
+C0011109	Decision Making
+C0011156	Deficiency Diseases
+C0011175	Dehydration
+C0011206	Delirium
+C0011226	Hepatitis D
+C0011263	Dementia, Multi-Infarct
+C0011269	Dementia, Vascular
+C0011303	Demyelinating Diseases
+C0011311	Dengue
+C0011330	Dental Calculus
+C0011334	Dental Caries
+C0011361	Dental Fistula
+C0011385	Dental Occlusion, Traumatic
+C0011389	Dental Plaque
+C0011581	Depressive Disorder
+C0011606	Exfoliative dermatitis
+C0011608	Dermatitis Herpetiformis
+C0011609	Drug Eruptions
+C0011615	Dermatitis, Atopic
+C0011616	Dermatitis, Contact
+C0011630	Dermatomycoses
+C0011633	Dermatomyositis
+C0011644	Scleroderma
+C0011849	Diabetes Mellitus
+C0011854	Diabetes Mellitus, Type 1
+C0011859	Diabetes Mellitus, Lipoatrophic
+C0011860	Diabetes Mellitus, Type 2
+C0011875	Diabetic Angiopathies
+C0011880	Diabetic Ketoacidosis
+C0011881	Diabetic Nephropathies
+C0011882	Diabetic Neuropathies
+C0011884	Diabetic Retinopathy
+C0011974	Diaper Rash
+C0011991	Diarrhea
+C0011992	Diarrhea, Infantile
+C0012213	Differential Threshold
+C0012236	DiGeorge Syndrome
+C0012243	Digestive System Neoplasms
+C0012359	Dilatation, Pathologic
+C0012546	Diphtheria
+C0012561	Diphyllobothriasis
+C0012628	Discrete Subaortic Stenosis
+C0012632	Discrimination (Psychology)
+C0012633	Discrimination Learning
+C0012655	Disease Susceptibility
+C0012675	Diseases in Twins
+C0012715	Iron Metabolism Disorders
+C0012734	Disruptive Behavior Disorder
+C0012739	Disseminated Intravascular Coagulation
+C0012746	Dissociative Disorders
+C0012860	DNA Damage
+C0012922	DNA Virus Infections
+C0013010	Dominance, Cerebral
+C0013080	Down Syndrome
+C0013142	Drowning
+C0013182	Drug Hypersensitivity
+C0013238	Dry Eye Syndromes
+C0013264	Muscular Dystrophy, Duchenne
+C0013274	Ductus Arteriosus, Patent
+C0013289	Duodenal Diseases
+C0013291	Duodenal Neoplasms
+C0013295	Duodenal Ulcer
+C0013312	Dupuytren's Contracture
+C0013336	Dwarfism
+C0013338	Dwarfism, Pituitary
+C0013369	Dysentery
+C0013371	Shigella Infections
+C0013384	Dyskinesias
+C0013386	Dyskinesia, Drug-Induced
+C0013388	Dyslexia, Acquired
+C0013390	Dysmenorrhea
+C0013395	Dyspepsia
+C0013403	Dysplastic Nevus Syndrome
+C0013404	Dyspnea
+C0013415	Dysthymic Disorder
+C0013421	Dystonia
+C0013423	Dystonia Musculorum Deformans
+C0013428	Dysuria
+C0013473	Eating Disorders
+C0013481	Ebstein Anomaly
+C0013502	Echinococcosis
+C0013504	Echinococcosis, Hepatic
+C0013537	Eclampsia
+C0013575	Ectodermal Dysplasia
+C0013595	Eczema
+C0013604	Edema
+C0013720	Ehlers-Danlos Syndrome
+C0013806	Electroconvulsive Therapy
+C0013870	Electroshock
+C0013882	Elephantiasis
+C0013884	Elephantiasis, Filarial
+C0013902	Elliptocytosis, Hereditary
+C0013922	Embolism
+C0013956	Emergencies
+C0013990	Emphysema
+C0014013	Empyema, Pleural
+C0014038	Encephalitis
+C0014057	Encephalitis, Japanese
+C0014059	Encephalomyelitis, Acute Disseminated
+C0014070	Encephalomyelitis
+C0014072	Encephalomyelitis, Autoimmune, Experimental
+C0014116	Endocardial Cushion Defects
+C0014118	Endocarditis
+C0014121	Bacterial Endocarditis
+C0014130	Endocrine System Diseases
+C0014132	Endocrine Gland Neoplasms
+C0014170	Endometrial Neoplasms
+C0014173	Endometrial Hyperplasia
+C0014175	Endometriosis
+C0014179	Endometritis
+C0014324	Entamoebiasis
+C0014347	Enterobacteriaceae Infections
+C0014356	Enterocolitis
+C0014358	Enterocolitis, Pseudomembranous
+C0014378	Enterovirus Infections
+C0014457	Eosinophilia
+C0014474	Ependymoma
+C0014488	Epicondylitis
+C0014511	Epidermal Cyst
+C0014518	Epidermal Necrolysis, Toxic
+C0014522	Epidermodysplasia Verruciformis
+C0014527	Epidermolysis Bullosa
+C0014544	Epilepsy
+C0014547	Epilepsies, Partial
+C0014548	Epilepsy, Generalized
+C0014549	Epilepsy, Tonic-Clonic
+C0014550	Epilepsies, Myoclonic
+C0014553	Epilepsy, Absence
+C0014556	Epilepsy, Temporal Lobe
+C0014557	Epilepsy, Post-Traumatic
+C0014591	Epistaxis
+C0014733	Erysipelas
+C0014740	Erythema Chronicum Migrans
+C0014742	Erythema Multiforme
+C0014743	Erythema Nodosum
+C0014752	Erythrasma
+C0014761	Erythroblastosis, Fetal
+C0014836	Escherichia coli Infections
+C0014848	Esophageal Achalasia
+C0014850	Esophageal Atresia
+C0014852	Esophageal Diseases
+C0014859	Esophageal Neoplasms
+C0014868	Esophagitis
+C0014869	Esophagitis, Peptic
+C0014877	Esotropia
+C0015230	Exanthema
+C0015300	Exophthalmos
+C0015306	Exostoses, Multiple Hereditary
+C0015347	Extinction, Psychological
+C0015371	Extrapyramidal Disorders
+C0015382	Extraversion (Psychology)
+C0015397	Eye Diseases
+C0015402	Eye Hemorrhage
+C0015404	Eye Infections, Bacterial
+C0015405	Eye Infections, Fungal
+C0015407	Eye Infections, Viral
+C0015414	Eye Neoplasms
+C0015424	Eyelid Neoplasms
+C0015461	Facial Neoplasms
+C0015468	Facial Pain
+C0015469	Facial Paralysis
+C0015499	Factor V Deficiency
+C0015503	Factor VII Deficiency
+C0015523	Factor XI Deficiency
+C0015530	Factor XIII Deficiency
+C0015544	Failure to Thrive
+C0015556	Fallopian Tube Diseases
+C0015558	Fallopian Tube Neoplasms
+C0015624	Fanconi Syndrome
+C0015625	Fanconi Anemia
+C0015634	Farmer's Lung
+C0015672	Fatigue
+C0015674	Fatigue Syndrome, Chronic
+C0015695	Fatty Liver
+C0015696	Fatty Liver, Alcoholic
+C0015702	Favism
+C0015773	Felty's Syndrome
+C0015806	Femoral Neck Fractures
+C0015814	Femur Head Necrosis
+C0015923	Fetal Alcohol Syndrome
+C0015927	Fetal Death
+C0015929	Fetal Diseases
+C0015934	Fetal Growth Retardation
+C0015938	Fetal Macrosomia
+C0015944	Fetal Membranes, Premature Rupture
+C0015967	Fever
+C0016034	Fibrocystic Breast Disease
+C0016045	Fibroma
+C0016052	Fibromuscular Dysplasia
+C0016053	Fibromyalgia
+C0016057	Fibrosarcoma
+C0016059	Fibrosis
+C0016063	Fibrous Dysplasia of Bone
+C0016065	Fibrous Dysplasia, Polyostotic
+C0016085	Filariasis
+C0016154	Fish Diseases
+C0016382	Flushing
+C0016412	Folic Acid Deficiency
+C0016436	Folliculitis
+C0016470	Food Hypersensitivity
+C0016509	Foot Dermatoses
+C0016522	Foramen Ovale, Patent
+C0016537	Forearm Injuries
+C0016558	Forensic Psychiatry
+C0016658	Fractures, Bone
+C0016659	Fractures, Closed
+C0016663	Fractures, Spontaneous
+C0016664	Fractures, Stress
+C0016665	Fractures, Ununited
+C0016667	Fragile X Syndrome
+C0016719	Friedreich Ataxia
+C0016842	Funnel Chest
+C0016867	Furunculosis
+C0016952	Galactosemias
+C0016977	Gallbladder Diseases
+C0016978	Gallbladder Neoplasms
+C0016989	Galvanic Skin Response
+C0016995	Gambling
+C0017097	Gardner Syndrome
+C0017152	Gastritis
+C0017154	Gastritis, Atrophic
+C0017155	Gastritis, Hypertrophic
+C0017160	Gastroenteritis
+C0017168	Gastroesophageal Reflux
+C0017178	Gastrointestinal Diseases
+C0017181	Gastrointestinal Hemorrhage
+C0017185	Gastrointestinal Neoplasms
+C0017205	Gaucher Disease
+C0017249	Gender Identity
+C0017400	Genetics, Behavioral
+C0017411	Genital Diseases, Female
+C0017412	Genital Diseases, Male
+C0017416	Genital Neoplasms, Female
+C0017417	Genital Neoplasms, Male
+C0017418	Primary genital syphilis
+C0017467	Geriatric Psychiatry
+C0017531	Angiolymphoid hyperplasia
+C0017536	Giardiasis
+C0017551	Gilbert Disease
+C0017563	Gingival Diseases
+C0017565	Gingival Hemorrhage
+C0017566	Gingival Hyperplasia
+C0017567	Gingival Hypertrophy
+C0017570	Gingival Neoplasms
+C0017572	Gingival Recession
+C0017574	Gingivitis
+C0017575	Necrotizing Ulcerative Gingivitis
+C0017601	Glaucoma
+C0017605	Glaucoma, Angle-Closure
+C0017612	Glaucoma, Open-Angle
+C0017636	Glioblastoma
+C0017638	Glioma
+C0017653	Glomus Tumor
+C0017658	Glomerulonephritis
+C0017661	Glomerulonephritis, IGA
+C0017662	Glomerulonephritis, Membranoproliferative
+C0017665	Glomerulonephritis, Membranous
+C0017668	Glomerulosclerosis, Focal Segmental
+C0017671	Glomus Jugulare Tumor
+C0017677	Glossitis, Benign Migratory
+C0017758	Glucosephosphate Dehydrogenase Deficiency
+C0017920	Glycogen Storage Disease Type I
+C0017921	Glycogen Storage Disease Type II
+C0017924	Glycogen Storage Disease Type V
+C0018021	Goiter
+C0018022	Endemic goiter
+C0018023	Goiter, Nodular
+C0018051	Gonadal Dysgenesis
+C0018054	Gonadal Dysgenesis, 46,XY
+C0018081	Gonorrhea
+C0018099	Gout
+C0018128	Graft Occlusion, Vascular
+C0018133	Graft vs Host Disease
+C0018188	Granuloma
+C0018190	Granuloma Inguinale
+C0018197	Granuloma, Lethal Midline
+C0018203	Granulomatous Disease, Chronic
+C0018206	Granulosa Cell Tumor
+C0018213	Graves Disease
+C0018273	Growth Disorders
+C0018378	Guillain-Barre Syndrome
+C0018418	Gynecomastia
+C0018467	Habituation, Psychophysiologic
+C0018482	Haemophilus Infections
+C0018524	Hallucinations
+C0018552	Hamartoma
+C0018553	Hamartoma Syndrome, Multiple
+C0018566	Hand Deformities, Congenital
+C0018609	Hartnup Disease
+C0018621	Rhinitis, Allergic, Seasonal
+C0018674	Craniocerebral Trauma
+C0018681	Headache
+C0018767	Hearing
+C0018779	Hearing Loss, Functional
+C0018780	Hearing Loss, High-Frequency
+C0018781	Hearing Loss, Noise-Induced
+C0018784	Hearing Loss, Sensorineural
+C0018789	Heart Aneurysm
+C0018790	Heart Arrest
+C0018794	Heart Block
+C0018798	Heart Defects, Congenital
+C0018799	Heart Diseases
+C0018800	Cardiomegaly
+C0018802	Heart Failure, Congestive
+C0018809	Heart Neoplasms
+C0018816	Heart Septal Defects
+C0018817	Heart Septal Defects, Atrial
+C0018818	Heart Septal Defects, Ventricular
+C0018824	Heart Valve Diseases
+C0018834	Heartburn
+C0018889	Helminthiasis
+C0018916	Hemangioma
+C0018923	Hemangiosarcoma
+C0018939	Hematologic Diseases
+C0018965	Hematuria
+C0018979	Hemianopsia
+C0018991	Hemiplegia
+C0018995	Hemochromatosis
+C0019021	Hemoglobin C Disease
+C0019034	Hemoglobin SC Disease
+C0019045	Hemoglobinopathies
+C0019048	Hemoglobinuria
+C0019050	Hemoglobinuria, Paroxysmal
+C0019054	Hemolysis
+C0019061	Hemolytic-Uremic Syndrome
+C0019069	Hemophilia_A
+C0019080	Hemorrhage
+C0019087	Hemorrhagic Disorders
+C0019088	Hemorrhagic Disease of Newborn
+C0019099	Hemorrhagic Fever, Crimean
+C0019100	Dengue Hemorrhagic Fever
+C0019101	Hemorrhagic Fever with Renal Syndrome
+C0019112	Hemorrhoids
+C0019114	Hemosiderosis
+C0019147	Hepatic Coma
+C0019151	Hepatic Encephalopathy
+C0019154	Hepatic Vein Thrombosis
+C0019156	Hepatic Veno-Occlusive Disease
+C0019158	Hepatitis
+C0019159	Hepatitis A
+C0019163	Hepatitis B
+C0019187	Hepatitis, Alcoholic
+C0019189	Hepatitis, Chronic
+C0019193	Hepatitis, Toxic
+C0019195	Hepatitis, Viral, Human
+C0019196	Hepatitis C
+C0019202	Hepatolenticular Degeneration
+C0019204	Carcinoma, Hepatocellular
+C0019209	Hepatomegaly
+C0019212	Hepatorenal Syndrome
+C0019243	Angioedemas, Hereditary
+C0019284	Hernia, Diaphragmatic
+C0019291	Hernia, Hiatal
+C0019294	Hernia, Inguinal
+C0019337	Heroin Dependence
+C0019342	Herpes Genitalis
+C0019345	Herpes Labialis
+C0019348	Herpes Simplex
+C0019357	Keratitis, Herpetic
+C0019360	Herpes Zoster
+C0019372	Herpesviridae Infections
+C0019554	Hip Dislocation
+C0019555	Hip Dislocation, Congenital
+C0019557	Hip Fractures
+C0019562	Hippel-Lindau Disease
+C0019569	Hirschsprung Disease
+C0019572	Hirsutism
+C0019621	Histiocytosis, Langerhans-Cell
+C0019655	Histoplasmosis
+C0019693	HIV Infections
+C0019699	HIV Seropositivity
+C0019829	Hodgkin Disease
+C0019880	Homocystinuria
+C0020040	Hot Flashes
+C0020091	Deltaretrovirus Infections
+C0020097	HTLV-I Infections
+C0020162	Humeral Fractures
+C0020179	Huntington Disease
+C0020217	Hydatidiform Mole
+C0020255	Hydrocephalus
+C0020295	Hydronephrosis
+C0020302	Hydrophthalmos
+C0020305	Hydrops Fetalis
+C0020428	Hyperaldosteronism
+C0020429	Hyperalgesia
+C0020433	Hyperbilirubinemia
+C0020435	Hyperbilirubinemia, Hereditary
+C0020437	Hypercalcemia
+C0020438	Hypercalciuria
+C0020440	Hypercapnia
+C0020443	Hypercholesterolemia
+C0020445	Hyperlipoproteinemia Type II
+C0020452	Hyperemia
+C0020455	Hypergammaglobulinemia
+C0020456	Hyperglycemia
+C0020459	Hyperinsulinism
+C0020461	Hyperkalemia
+C0020473	Hyperlipidemias
+C0020474	Hyperlipidemia, Familial Combined
+C0020476	Hyperlipoproteinemias
+C0020479	Hyperlipoproteinemia Type III
+C0020480	Hyperlipoproteinemia Type IV
+C0020501	Hyperoxaluria, Primary
+C0020502	Hyperparathyroidism
+C0020503	Hyperparathyroidism, Secondary
+C0020505	Hyperphagia
+C0020507	Hyperplasia
+C0020514	Hyperprolactinemia
+C0020517	Hypersensitivity
+C0020522	Hypersensitivity, Delayed
+C0020523	Hypersensitivity, Immediate
+C0020524	Disorders of Excessive Somnolence
+C0020534	Hypertelorism
+C0020538	Hypertension
+C0020540	Hypertension, Malignant
+C0020541	Hypertension, Portal
+C0020542	Hypertension, Pulmonary
+C0020544	Hypertension, Renal
+C0020545	Hypertension, Renovascular
+C0020550	Hyperthyroidism
+C0020557	Hypertriglyceridemia
+C0020564	Hypertrophy
+C0020587	Hypnosis
+C0020594	Hypoactive Sexual Desire Disorder
+C0020597	Hypobetalipoproteinemias
+C0020598	Hypocalcemia
+C0020615	Hypoglycemia
+C0020619	Hypogonadism
+C0020621	Hypokalemia
+C0020623	Hypolipoproteinemias
+C0020625	Hyponatremia
+C0020626	Hypoparathyroidism
+C0020627	Hypopharyngeal Neoplasms
+C0020630	Hypophosphatasia
+C0020635	Hypopituitarism
+C0020649	Hypotension
+C0020651	Hypotension, Orthostatic
+C0020676	Hypothyroidism
+C0020683	Hypovolemic Shock
+C0020732	Iatrogenic Disease
+C0020757	Ichthyosis
+C0020875	Ileal Diseases
+C0020876	Ileal Neoplasms
+C0020877	Ileitis
+C0020903	Illusions
+C0020913	Imagination
+C0020951	Immune Complex Diseases
+C0021051	Immunologic Deficiency Syndromes
+C0021053	Immune System Diseases
+C0021092	Impacted cerumen
+C0021099	Impetigo
+C0021114	Implosive Therapy
+C0021116	Impotence
+C0021122	Impulse Control Disorders
+C0021141	Inappropriate ADH Syndrome
+C0021290	Infant, Newborn, Diseases
+C0021295	Infant, Premature, Diseases
+C0021311	Infection
+C0021345	Infectious Mononucleosis
+C0021355	Infective otitis externa
+C0021359	Infertility
+C0021361	Infertility, Female
+C0021364	Infertility, Male
+C0021368	Inflammation
+C0021390	Inflammatory Bowel Diseases
+C0021400	Influenza, Human
+C0021467	Inhibition (Psychology)
+C0021603	Sleep Initiation and Maintenance Disorders
+C0021655	Insulin Resistance
+C0021670	Insulinoma
+C0021705	Intelligence Tests
+C0021775	Intermittent Claudication
+C0021818	Intervertebral Disk Displacement
+C0021819	Interview, Psychological
+C0021831	Intestinal Diseases
+C0021833	Intestinal Fistula
+C0021841	Intestinal Neoplasms
+C0021843	Intestinal Obstruction
+C0021846	Intestinal Polyps
+C0021847	Intestinal Pseudo-Obstruction
+C0021890	Intraoperative Complications
+C0021933	Intussusception
+C0021943	Inversion, Chromosome
+C0022073	Iridocyclitis
+C0022081	Iritis
+C0022104	Irritable Bowel Syndrome
+C0022116	Ischemia
+C0022281	Itching of eye
+C0022336	Creutzfeldt-Jakob Syndrome
+C0022346	Jaundice
+C0022353	Jaundice, Neonatal
+C0022354	Jaundice, Obstructive
+C0022360	Jaw Abnormalities
+C0022364	Jaw Neoplasms
+C0022366	Jaw, Edentulous
+C0022374	Jejunal Neoplasms
+C0022387	Jervell-Lange Nielsen Syndrome
+C0022398	Job's Syndrome
+C0022408	Joint Diseases
+C0022410	Joint Instability
+C0022423	Judgment
+C0022548	Keloid
+C0022568	Keratitis
+C0022570	Keratitis, Dendritic
+C0022573	Keratoconjunctivitis
+C0022575	Keratoconjunctivitis Sicca
+C0022577	Keratoconjunctivitis, Vernal
+C0022578	Keratoconus
+C0022593	Keratosis
+C0022602	Keratosis, Actinic
+C0022610	Kernicterus
+C0022638	Ketosis
+C0022650	Kidney Calculi
+C0022658	Kidney Diseases
+C0022660	Kidney Failure, Acute
+C0022661	Kidney Failure, Chronic
+C0022665	Kidney Neoplasms
+C0022680	Polycystic Kidney Diseases
+C0022729	Klebsiella Infections
+C0022735	Klinefelter Syndrome
+C0022744	Knee Injuries
+C0022754	Knowledge of Results (Psychology)
+C0022783	Vulvar Lichen Sclerosus
+C0022802	Kuru
+C0022865	Obstetric Labor Complications
+C0022876	Obstetric Labor, Premature
+C0022951	Lactose Intolerance
+C0022972	Lambert-Eaton Myasthenic Syndrome
+C0023014	Language Development Disorders
+C0023015	Language Disorders
+C0023016	Language Tests
+C0023051	Laryngeal Diseases
+C0023052	Laryngeal Edema
+C0023055	Laryngeal Neoplasms
+C0023176	Lead Poisoning
+C0023186	Learning Disorders
+C0023219	Leg Dermatoses
+C0023234	Legg-Perthes Disease
+C0023241	Legionnaires' Disease
+C0023264	Leigh Disease
+C0023267	Leiomyoma
+C0023269	leiomyosarcoma
+C0023281	Leishmaniasis
+C0023283	Leishmaniasis, Cutaneous
+C0023290	Leishmaniasis, Visceral
+C0023343	Leprosy
+C0023348	Leprosy, Lepromatous
+C0023351	Leprosy, Tuberculoid
+C0023364	Leptospirosis
+C0023381	Letterer-Siwe Disease
+C0023418	Leukemia
+C0023434	Chronic Lymphocytic Leukemia
+C0023435	Leukemia, B-Cell, Acute
+C0023436	Leukemia, B-Cell, Chronic
+C0023440	Leukemia, Erythroblastic, Acute
+C0023441	Leukemia, Experimental
+C0023443	Leukemia, Hairy Cell
+C0023448	Leukemia, Lymphocytic
+C0023449	Leukemia, Lymphocytic, Acute
+C0023452	Leukemia, Lymphocytic, Acute, L1
+C0023453	Leukemia, Lymphocytic, Acute, L2
+C0023458	Leukemia, Lymphocytic, Chronic
+C0023462	Leukemia, Megakaryocytic, Acute
+C0023465	Leukemia, Monocytic, Acute
+C0023467	Leukemia, Myelocytic, Acute
+C0023470	Leukemia, Myeloid
+C0023472	Leukemia, Myeloid, Accelerated Phase
+C0023473	Leukemia, Myeloid, Chronic
+C0023474	Leukemia, Myeloid, Chronic-Phase
+C0023479	Leukemia, Myelomonocytic, Acute
+C0023480	Leukemia, Myelomonocytic, Chronic
+C0023482	Leukemia, Nonlymphocytic, Acute
+C0023485	Leukemia, Pre-B-Cell
+C0023487	Leukemia, Promyelocytic, Acute
+C0023493	Leukemia, T-Cell, Acute
+C0023518	Leukocytosis
+C0023522	Leukodystrophy, Metachromatic
+C0023529	Leukomalacia, Periventricular
+C0023530	Leukopenia
+C0023531	Leukoplakia
+C0023532	Leukoplakia, Oral
+C0023618	Libido
+C0023646	Lichen Planus
+C0023772	Lipid Metabolism, Inborn Errors
+C0023786	Mucopolysaccharidosis I
+C0023787	Lipodystrophy
+C0023788	Whipple Disease
+C0023794	Lipidoses
+C0023817	Hyperlipoproteinemia Type I
+C0023827	liposarcoma
+C0023860	Listeriosis
+C0023869	Lithiasis
+C0023885	Liver Abscess
+C0023886	Liver Abscess, Amebic
+C0023890	Liver Cirrhosis
+C0023891	Liver Cirrhosis, Alcoholic
+C0023892	Liver Cirrhosis, Biliary
+C0023895	Liver Diseases
+C0023896	Liver Diseases, Alcoholic
+C0023903	Liver Neoplasms
+C0023968	Loiasis
+C0023976	Long QT Syndrome
+C0024021	Loudness Perception
+C0024031	Low Back Pain
+C0024110	Lung Abscess
+C0024115	Lung Diseases
+C0024116	Lung Diseases, Fungal
+C0024117	Pulmonary Disease, Chronic Obstructive
+C0024121	Lung Neoplasms
+C0024137	Lupus Erythematosus, Cutaneous
+C0024138	Lupus Erythematosus, Discoid
+C0024141	Lupus Erythematosus, Systemic
+C0024143	Lupus Nephritis
+C0024198	Lyme Disease
+C0024205	Lymphadenitis
+C0024214	Lymphangiectasis
+C0024228	Lymphatic Diseases
+C0024232	Lymphatic Metastasis
+C0024236	Lymphedema
+C0024282	Lymphocytosis
+C0024286	Lymphogranuloma Venereum
+C0024291	Lymphohistiocytosis, Hemophagocytic
+C0024299	Lymphoma
+C0024301	Lymphoma, Follicular
+C0024302	Lymphoma, Large-Cell
+C0024305	Lymphoma, Non-Hodgkin
+C0024312	Lymphopenia
+C0024314	Lymphoproliferative Disorders
+C0024408	Machado-Joseph Disease
+C0024419	Waldenstrom Macroglobulinemia
+C0024437	Macular Degeneration
+C0024440	Macular Edema, Cystoid
+C0024449	Maduromycosis
+C0024530	Malaria
+C0024534	Malaria, Cerebral
+C0024535	Malaria, Falciparum
+C0024536	Quartan malaria
+C0024537	Malaria, Vivax
+C0024586	Malignant Carcinoid Syndrome
+C0024588	Malignant essential hypertension
+C0024591	Malignant Hyperthermia
+C0024623	Malignant neoplasm of stomach
+C0024689	Mandibular Diseases
+C0024694	Mandibular Neoplasms
+C0024720	Manifest Anxiety Scale
+C0024776	Maple Syrup Urine Disease
+C0024790	Paroxysmal nocturnal hemoglobinuria
+C0024796	Marfan Syndrome
+C0024809	Marijuana Abuse
+C0024899	Mastocytosis
+C0024950	Maxillary Diseases
+C0024954	Maxillary Neoplasms
+C0024959	Maxillary Sinusitis
+C0025007	Measles
+C0025048	Meconium Aspiration Syndrome
+C0025063	Mediastinal Neoplasms
+C0025149	Medulloblastoma
+C0025202	Melanoma
+C0025209	Melanosis
+C0025218	Chloasma
+C0025260	Memory
+C0025261	Memory Disorders
+C0025265	Memory, Short-Term
+C0025267	Multiple Endocrine Neoplasia Type 1
+C0025268	Multiple Endocrine Neoplasia Type 2a
+C0025269	Multiple Endocrine Neoplasia Type 2b
+C0025281	Meniere's Disease
+C0025284	Meningeal Neoplasms
+C0025286	Meningioma
+C0025289	Meningitis
+C0025293	Meningitis, Listeria
+C0025294	Meningitis, Meningococcal
+C0025295	Meningitis, Pneumococcal
+C0025303	Meningococcal Infections
+C0025306	Meningococcemia
+C0025312	Meningomyelocele
+C0025322	Menopause, Premature
+C0025323	Menorrhagia
+C0025345	Menstruation Disturbances
+C0025353	Mental Health
+C0025355	Mental Health Services
+C0025361	Mental Processes
+C0025362	Mental Retardation
+C0025364	Mental Status Schedule
+C0025472	Mesenteric Vascular Occlusion
+C0025500	Mesothelioma
+C0025517	Metabolic Diseases
+C0025521	Metabolism, Inborn Errors
+C0025534	Metal Metabolism, Inborn Errors
+C0025568	Metaplasia
+C0025874	Metrorrhagia
+C0025958	Microcephaly
+C0026010	Microphthalmos
+C0026205	Miosis
+C0026266	Mitral Valve Insufficiency
+C0026267	Mitral Valve Prolapse
+C0026269	Mitral Valve Stenosis
+C0026272	Mixed Connective Tissue Disease
+C0026277	Adenoma, Pleomorphic
+C0026320	MMPI
+C0026499	Monosomy
+C0026603	Motion Sickness
+C0026612	Motor Skills
+C0026613	Motor Skills Disorders
+C0026618	Fluorosis, Dental
+C0026633	Mouth Abnormalities
+C0026636	Mouth Diseases
+C0026640	Mouth Neoplasms
+C0026644	Mouth, Edentulous
+C0026650	Movement Disorders
+C0026654	Moyamoya Disease
+C0026691	Mucocutaneous Lymph Node Syndrome
+C0026697	Mucolipidoses
+C0026705	Mucopolysaccharidosis II
+C0026709	Mucopolysaccharidosis VI
+C0026718	Mucormycosis
+C0026764	Multiple Myeloma
+C0026766	Multiple Organ Failure
+C0026769	Multiple Sclerosis
+C0026771	Multiple Trauma
+C0026780	Mumps
+C0026827	Muscle Hypotonia
+C0026837	Muscle Rigidity
+C0026838	Muscle Spasticity
+C0026846	Muscular Atrophy
+C0026847	Muscular Atrophy, Spinal
+C0026848	Muscular Diseases
+C0026850	Muscular Dystrophies
+C0026857	Musculoskeletal Diseases
+C0026884	Mutism
+C0026896	Myasthenia Gravis
+C0026916	Mycobacterium avium-intracellulare Infection
+C0026918	Mycobacterium Infections
+C0026919	Mycobacterium Infections, Atypical
+C0026936	Mycoplasma Infections
+C0026946	Mycoses
+C0026948	Mycosis Fungoides
+C0026961	Mydriasis
+C0026975	Myelitis
+C0026976	Myelitis, Transverse
+C0026986	Myelodysplastic Syndromes
+C0026987	Myelofibrosis
+C0027022	Myeloproliferative Disorders
+C0027051	Myocardial Infarction
+C0027055	Myocardial Reperfusion Injury
+C0027059	Myocarditis
+C0027066	Myoclonus
+C0027086	Myoma
+C0027092	Myopia
+C0027121	Myositis
+C0027126	Myotonic Dystrophy
+C0027145	Myxedema
+C0027149	Myxoma
+C0027339	Nail Diseases
+C0027404	Narcolepsy
+C0027412	Opioid-Related Disorders
+C0027424	Nasal congestion (finding)
+C0027429	Nasal Obstruction
+C0027430	Nasal Polyps
+C0027439	Nasopharyngeal Neoplasms
+C0027441	Nasopharyngitis
+C0027497	Nausea
+C0027498	Nausea and vomiting
+C0027540	Necrosis
+C0027625	Neoplasm Circulating Cells
+C0027626	Neoplasm Invasiveness
+C0027627	Neoplasm Metastasis
+C0027643	Neoplasm Recurrence, Local
+C0027645	Neoplasm Seeding
+C0027651	Neoplasms
+C0027659	Neoplasms, Experimental
+C0027661	Neoplasms, Hormone-Dependent
+C0027662	Multiple Endocrine Neoplasia
+C0027663	Neoplasms, Multiple Primary
+C0027665	Neoplasms, Nerve Tissue
+C0027666	Neoplasms, Radiation-Induced
+C0027671	Neoplastic Processes
+C0027672	Neoplastic Syndromes, Hereditary
+C0027686	Neovascularization, Pathologic
+C0027697	Nephritis
+C0027706	Nephritis, Hereditary
+C0027707	Nephritis, Interstitial
+C0027708	Wilms Tumor
+C0027709	Nephrocalcinosis
+C0027719	Nephrosclerosis
+C0027720	Nephrosis
+C0027721	Nephrosis, Lipoid
+C0027726	Nephrotic Syndrome
+C0027746	Nerve Degeneration
+C0027765	Nervous System Diseases
+C0027766	Nervous System Neoplasms
+C0027773	Nesidioblastosis
+C0027794	Neural Tube Defects
+C0027796	Neuralgia
+C0027809	Neurilemmoma
+C0027819	Neuroblastoma
+C0027822	Neurodermatitis
+C0027830	Neurofibroma
+C0027831	Neurofibromatosis 1
+C0027832	Neurofibromatosis 2
+C0027849	Neuroleptic Malignant Syndrome
+C0027859	Neuroma, Acoustic
+C0027868	Neuromuscular Diseases
+C0027873	Neuromyelitis Optica
+C0027888	Hereditary Motor and Sensory Neuropathies
+C0027889	Hereditary Sensory and Autonomic Neuropathies
+C0027902	Neuropsychological Tests
+C0027927	Neurosyphilis
+C0027932	Neurotic Disorders
+C0027947	Neutropenia
+C0027960	Nevus
+C0027962	Nevus, Pigmented
+C0028043	Nicotine Dependence
+C0028077	Night Blindness
+C0028242	Nocardia Infections
+C0028303	Nondisjunction, Genetic
+C0028326	Noonan Syndrome
+C0028433	Nose Neoplasms
+C0028709	Nutrition Disorders
+C0028734	Nocturia
+C0028754	Obesity
+C0028756	Obesity, Morbid
+C0028758	Object Attachment
+C0028768	Obsessive-Compulsive Disorder
+C0028796	Dermatitis, Occupational
+C0028797	Occupational Diseases
+C0028840	Ocular Hypertension
+C0028850	Ocular Motility Disorders
+C0028880	Odontogenic Tumors
+C0028945	Oligodendroglioma
+C0028949	Oligomenorrhea
+C0028960	Oligospermia
+C0028968	Olivopontocerebellar Atrophies
+C0029001	Onchocerciasis
+C0029076	Ophthalmia Neonatorum
+C0029077	Ophthalmia, Sympathetic
+C0029089	Ophthalmoplegia
+C0029104	Opioid withdrawal
+C0029106	Opisthorchiasis
+C0029118	Opportunistic Infections
+C0029124	Optic Atrophy
+C0029125	Optic Atrophies, Hereditary
+C0029128	Optic Disk Drusen
+C0029132	Optic Nerve Diseases
+C0029134	Optic Neuritis
+C0029172	Oral Submucous Fibrosis
+C0029182	Orbital Diseases
+C0029227	Delirium, Dementia, Amnestic, Cognitive Disorders
+C0029266	Orientation
+C0029291	Psittacosis
+C0029295	Oropharyngeal Neoplasms
+C0029396	Heterotopic Ossification
+C0029401	Osteitis Deformans
+C0029408	Osteoarthritis
+C0029410	Osteoarthritis, Hip
+C0029422	Osteochondrodysplasias
+C0029434	Osteogenesis Imperfecta
+C0029435	Osteolysis
+C0029440	Osteoma
+C0029442	Osteomalacia
+C0029443	Osteomyelitis
+C0029445	Osteonecrosis
+C0029454	Osteopetrosis
+C0029456	Osteoporosis
+C0029458	Osteoporosis, Postmenopausal
+C0029463	Osteosarcoma
+C0029878	Otitis Externa
+C0029882	Otitis Media
+C0029883	Otitis Media with Effusion
+C0029897	Otorhinolaryngologic Neoplasms
+C0029899	Otosclerosis
+C0029927	Ovarian Cysts
+C0029928	Ovarian Diseases
+C0029941	Brief Psychiatric Rating Scale
+C0029944	Overdose
+C0030193	Pain
+C0030200	Pain, Intractable
+C0030201	Pain, Postoperative
+C0030210	Paired-Associate Learning
+C0030283	Pancreatic Cyst
+C0030286	Pancreatic Diseases
+C0030297	Pancreatic Neoplasms
+C0030299	Pancreatic Pseudocyst
+C0030305	Pancreatitis
+C0030312	Pancytopenia
+C0030319	Panic Disorder
+C0030343	Panuveitis
+C0030354	Papilloma
+C0030409	Paracoccidioidomycosis
+C0030421	Paraganglioma
+C0030422	Paraganglioma, Extra-Adrenal
+C0030443	Paralyses, Familial Periodic
+C0030446	Paralytic Ileus
+C0030469	Paranasal Sinus Diseases
+C0030481	Paraparesis, Tropical Spastic
+C0030486	Paraplegia
+C0030489	Paraproteinemias
+C0030491	Parapsoriasis
+C0030492	Parapsychology
+C0030499	Parasitic Diseases
+C0030521	Parathyroid Neoplasms
+C0030528	Paratyphoid Fever
+C0030567	Parkinson Disease
+C0030568	Parkinson Disease, Postencephalitic
+C0030569	Parkinson Disease, Secondary
+C0030578	Paronychia Inflammation
+C0030590	Paroxysmal supraventricular tachycardia
+C0030593	Pars Planitis
+C0030618	Parvoviridae Infections
+C0030636	Pasteurella Infections
+C0030709	Pattern Recognition, Visual
+C0030757	Pediculus capitis infestation
+C0030758	Body louse infestation
+C0030759	Infestation by Phthirus pubis
+C0030783	Pellagra
+C0030785	Pelvic abscess
+C0030794	Pelvic Pain
+C0030804	Pemphigoid, Benign Mucous Membrane
+C0030805	Pemphigoid, Bullous
+C0030807	Pemphigus
+C0030848	Penile Induration
+C0030849	Penile Neoplasms
+C0030920	Peptic Ulcer
+C0030922	Peptic Ulcer Hemorrhage
+C0030971	Perception
+C0030975	Perceptual Disorders
+C0031030	Periapical Periodontitis
+C0031036	Polyarteritis Nodosa
+C0031046	Pericarditis
+C0031069	Familial Mediterranean Fever
+C0031090	Periodontal Diseases
+C0031094	Periodontal Pocket
+C0031099	Periodontitis
+C0031106	Periodontitis, Juvenile
+C0031117	Peripheral Nervous System Diseases
+C0031142	Peritoneal Diseases
+C0031149	Peritoneal Neoplasms
+C0031154	Peritonitis
+C0031190	Persistent Fetal Circulation Syndrome
+C0031209	Personality Assessment
+C0031212	Personality Disorders
+C0031213	Personality Inventory
+C0031214	Personality Tests
+C0031269	Peutz-Jeghers Syndrome
+C0031345	Pharyngeal Diseases
+C0031347	Pharyngeal Neoplasms
+C0031350	Pharyngitis
+C0031485	Phenylketonurias
+C0031511	Pheochromocytoma
+C0031526	Philadelphia Chromosome
+C0031542	Phlebitis
+C0031572	Phobia, Social
+C0031762	Photosensitivity Disorders
+C0031887	Picornaviridae Infections
+C0031946	Pinta
+C0032002	Pituitary Diseases
+C0032019	Pituitary Neoplasms
+C0032026	Pityriasis Rosea
+C0032045	Placenta Diseases
+C0032051	Placental Insufficiency
+C0032064	Plague
+C0032131	Plasmacytoma
+C0032209	Platybasia
+C0032229	Pleural Neoplasms
+C0032269	Pneumococcal Infections
+C0032273	Pneumoconiosis
+C0032285	Pneumonia
+C0032290	Aspiration Pneumonia
+C0032300	Pneumonia, Pneumococcal
+C0032302	Pneumonia, Mycoplasma
+C0032305	Pneumonia, Pneumocystis
+C0032308	Staphylococcal Pneumonia
+C0032310	Pneumonia, Viral
+C0032326	Pneumothorax
+C0032343	Poisoning
+C0032344	Poisoning
+C0032371	Poliomyelitis
+C0032460	Polycystic Ovary Syndrome
+C0032461	Polycythemia
+C0032463	Polycythemia Vera
+C0032533	Polymyalgia Rheumatica
+C0032580	Adenomatous Polyposis Coli
+C0032584	Polyps
+C0032587	Polyradiculoneuropathy
+C0032708	Porphyrias
+C0032768	Postherpetic neuralgia
+C0032780	Postmortem Changes
+C0032787	Postoperative Complications
+C0032788	Postoperative Hemorrhage
+C0032797	Postpartum Hemorrhage
+C0032807	Postphlebitic Syndrome
+C0032897	Prader-Willi Syndrome
+C0032914	Pre-Eclampsia
+C0032927	Precancerous Conditions
+C0032962	Pregnancy Complications
+C0032963	Pregnancy Complications, Cardiovascular
+C0032964	Pregnancy Complications, Hematologic
+C0032965	Pregnancy Complications, Infectious
+C0032966	Pregnancy Complications, Neoplastic
+C0032969	Pregnancy in Diabetics
+C0032987	Pregnancy, Ectopic
+C0033038	Premature Ejaculation
+C0033046	Premenstrual Syndrome
+C0033054	Prenatal Exposure Delayed Effects
+C0033074	Presbycusis
+C0033117	Priapism
+C0033205	Probability Learning
+C0033211	Problem Solving
+C0033246	Proctitis
+C0033324	Prognathism
+C0033375	Prolactinoma
+C0033575	Prostatic Diseases
+C0033578	Prostatic Neoplasms
+C0033581	Prostatitis
+C0033586	Prosthesis Failure
+C0033626	Protein Deficiency
+C0033677	Protein-Energy Malnutrition
+C0033687	Proteinuria
+C0033771	Prurigo
+C0033774	Pruritus
+C0033775	Pruritus Ani
+C0033777	Pruritus of genital organs
+C0033805	Pseudohypoaldosteronism
+C0033806	Pseudohypoparathyroidism
+C0033817	Pseudomonas Infections
+C0033845	Pseudotumor Cerebri
+C0033847	Pseudoxanthoma Elasticum
+C0033860	Psoriasis
+C0033871	Psychiatric Status Rating Scales
+C0033873	Psychiatry
+C0033877	Psychoacoustics
+C0033893	Tension-Type Headache
+C0033905	Psychological Tests
+C0033909	Psychology
+C0033920	Psychometrics
+C0033922	Psychomotor Disorders
+C0033923	Psychomotor Performance
+C0033924	Psychoneuroimmunology
+C0033927	Psychopathology
+C0033929	Psychopharmacology
+C0033931	Psychophysiologic Disorders
+C0033936	Psychoses, Alcoholic
+C0033941	Psychoses, Substance-Induced
+C0033944	Psychosexual Development
+C0033953	Sexual Dysfunctions, Psychological
+C0033968	Psychotherapy
+C0033970	Psychotherapy, Brief
+C0033975	Psychotic Disorders
+C0033998	Pterygium
+C0034012	Puberty, Delayed
+C0034013	Puberty, Precocious
+C0034040	Puerperal Disorders
+C0034063	Pulmonary Edema
+C0034065	Pulmonary Embolism
+C0034067	Pulmonary Emphysema
+C0034068	Pulmonary Eosinophilia
+C0034069	Pulmonary Fibrosis
+C0034072	Pulmonary Heart Disease
+C0034089	Pulmonary Valve Stenosis
+C0034152	Purpura, Schoenlein-Henoch
+C0034155	Purpura, Thrombotic Thrombocytopenic
+C0034186	Pyelonephritis
+C0034362	Q Fever
+C0034365	Q-Sort
+C0034530	Radiation Injuries
+C0034561	Radiodermatitis
+C0034628	Radius Fractures
+C0034686	Rat-Bite Fever
+C0034734	Raynaud Disease
+C0034746	Reaction Time
+C0034770	Mental Recall
+C0034884	Rectal Fistula
+C0034885	Rectal Neoplasms
+C0034886	Rectal pain
+C0034888	Rectal Prolapse
+C0034897	Recurrence
+C0034929	Reflex
+C0034931	Reflex Sympathetic Dystrophy
+C0034951	Refractive Errors
+C0035007	Reinforcement (Psychology)
+C0035008	Reinforcement Schedule
+C0035021	Relapsing Fever
+C0035066	Renal Artery Obstruction
+C0035078	Kidney Failure
+C0035086	Renal Osteodystrophy
+C0035091	Renal Tubular Transport, Inborn Errors
+C0035126	Reperfusion Injury
+C0035127	Cumulative Trauma Disorders
+C0035204	Respiration Disorders
+C0035220	Respiratory Distress Syndrome, Newborn
+C0035222	Respiratory Distress Syndrome, Adult
+C0035228	Respiratory Hypersensitivity
+C0035229	Respiratory Insufficiency
+C0035234	Respiratory Sounds
+C0035235	Respiratory Syncytial Virus Infections
+C0035242	Respiratory Tract Diseases
+C0035243	Respiratory Tract Infections
+C0035244	Respiratory Tract Neoplasms
+C0035258	Restless Legs Syndrome
+C0035302	Retinal Artery Occlusion
+C0035304	Retinal Degeneration
+C0035305	Retinal Detachment
+C0035309	Retinal Diseases
+C0035312	Retinal Drusen
+C0035320	Retinal Neovascularization
+C0035328	Retinal Vein Occlusion
+C0035334	Retinitis Pigmentosa
+C0035335	Retinoblastoma
+C0035344	Retinopathy of Prematurity
+C0035357	Retroperitoneal Fibrosis
+C0035369	Retroviridae Infections
+C0035372	Rett Syndrome
+C0035397	Reward
+C0035404	Rh Isoimmunization
+C0035410	Rhabdomyolysis
+C0035412	Rhabdomyosarcoma
+C0035435	Rheumatic Diseases
+C0035436	Rheumatic Fever
+C0035439	Rheumatic Heart Disease
+C0035441	Rheumatic Nodule
+C0035450	Rheumatoid Nodule
+C0035455	Rhinitis
+C0035457	Rhinitis, Allergic, Perennial
+C0035460	Rhinitis, Vasomotor
+C0035468	Rhinoscleroma
+C0035579	Rickets
+C0035585	Rickettsia Infections
+C0035597	Rickettsialpox
+C0035793	Rocky Mountain Spotted Fever
+C0035828	Romano-Ward Syndrome
+C0035851	Root Resorption
+C0035854	Rosacea
+C0035920	Rubella
+C0035934	Rubinstein-Taybi Syndrome
+C0035955	Rupture
+C0035956	Rupture, Spontaneous
+C0036093	Salivary Gland Diseases
+C0036095	Salivary Gland Neoplasms
+C0036117	Salmonella Infections
+C0036130	Salpingitis
+C0036161	Sandhoff Disease
+C0036202	Sarcoidosis
+C0036205	Sarcoidosis, Pulmonary
+C0036220	Sarcoma, Kaposi
+C0036239	Satiation
+C0036240	Satiety Response
+C0036262	Scabies <infestation>
+C0036271	Scalp Dermatoses
+C0036285	Scarlet Fever
+C0036323	Schistosomiasis
+C0036329	Schistosomiasis japonica
+C0036330	Schistosomiasis mansoni
+C0036337	Schizoaffective Disorder
+C0036339	Schizoid Personality Disorder
+C0036341	Schizophrenia
+C0036347	Schizophrenia, Disorganized
+C0036349	Schizophrenia, Paranoid
+C0036357	Schizophrenic Psychology
+C0036363	Schizotypal Personality Disorder
+C0036396	Sciatica
+C0036421	Scleroderma, Systemic
+C0036429	Sclerosis
+C0036439	Scoliosis
+C0036472	Scrub Typhus
+C0036502	Sebaceous Gland Diseases
+C0036508	Seborrheic dermatitis
+C0036572	Seizures
+C0036631	Seminoma
+C0036651	Senile lentigo
+C0036658	Sensation
+C0036659	Sensation Disorders
+C0036677	Sensory Thresholds
+C0036717	Serial Learning
+C0036769	Sertoli Cell Tumor
+C0036830	Serum Sickness
+C0036849	Set (Psychology)
+C0036868	Sex Chromosome Aberrations
+C0036916	Sexually Transmitted Diseases
+C0036918	Sexually Transmitted Diseases, Viral
+C0036974	Shock
+C0036980	Shock, Cardiogenic
+C0036983	Shock, Septic
+C0036992	Short Bowel Syndrome
+C0037005	Shoulder Dislocation
+C0037006	Shoulder Fractures
+C0037036	Sialorrhea
+C0037052	Sick Sinus Syndrome
+C0037054	Sickle Cell Trait
+C0037061	Siderosis
+C0037073	Sigmoid Neoplasms
+C0037116	Silicosis
+C0037195	Sinus headache
+C0037198	Sinus Thrombosis, Intracranial
+C0037199	Sinusitis
+C0037268	Skin Abnormalities
+C0037274	Skin Diseases
+C0037275	Skin Diseases, Vesiculobullous
+C0037277	Skin Diseases, Genetic
+C0037280	Skin Diseases, Parasitic
+C0037286	Skin Neoplasms
+C0037299	Skin Ulcer
+C0037304	Skull Fractures
+C0037313	Sleep
+C0037315	Sleep Apnea Syndromes
+C0037316	Sleep Deprivation
+C0037319	Sleep Stages
+C0037322	Sleep, REM
+C0037361	Smell
+C0037367	Smoke Inhalation Injury
+C0037383	Sneezing
+C0037427	Social Perception
+C0037578	Soft Tissue Injuries
+C0037579	Soft Tissue Neoplasms
+C0037650	Somatoform Disorders
+C0037672	Somnambulism
+C0037744	Space Perception
+C0037769	Spasms, Infantile
+C0037771	Paraparesis, Spastic
+C0037773	Spastic Paraplegia, Hereditary
+C0037822	Speech Disorders
+C0037826	Speech Perception
+C0037889	Spherocytosis, Hereditary
+C0037917	Spina Bifida Cystica
+C0037928	Spinal Cord Diseases
+C0037933	Spinal Diseases
+C0037937	Spinal Injuries
+C0037942	Spinal Osteophytosis
+C0037952	Spinocerebellar Degenerations
+C0037999	Splenic Neoplasms
+C0038002	Splenomegaly
+C0038012	Spondylitis
+C0038013	Spondylitis, Ankylosing
+C0038016	Spondylolisthesis
+C0038019	Spondylosis
+C0038048	Sprains and Strains
+C0038157	Staphylococcal enterocolitis
+C0038160	Staphylococcal Infections
+C0038166	Staphylococcal Skin Infections
+C0038186	Startle Reaction
+C0038187	Starvation
+C0038218	Status Asthmaticus
+C0038220	Status Epilepticus
+C0038238	Steatorrhea
+C0038273	Stereotypic Movement Disorder
+C0038325	Stevens-Johnson Syndrome
+C0038354	Stomach Diseases
+C0038356	Stomach Neoplasms
+C0038358	Stomach Ulcer
+C0038362	Stomatitis
+C0038363	Stomatitis, Aphthous
+C0038366	Stomatitis, Herpetic
+C0038395	Streptococcal Infections
+C0038435	Stress
+C0038436	Stress Disorders, Post-Traumatic
+C0038437	Female stress incontinence
+C0038441	Stress Disorders, Traumatic
+C0038443	Stress, Psychological
+C0038454	Cerebrovascular Accident
+C0038463	Strongyloidiasis
+C0038506	Stuttering
+C0038522	Subacute Sclerosing Panencephalitis
+C0038525	Subarachnoid Hemorrhage
+C0038538	Subdural Effusion
+C0038579	Substance Abuse, Intravenous
+C0038587	Substance Withdrawal Syndrome
+C0038644	Sudden Infant Death
+C0038814	Sunburn
+C0038868	Supranuclear Palsy, Progressive
+C0038874	Supratentorial Neoplasms
+C0038941	Surgical Wound Infection
+C0038986	Sweat Gland Diseases
+C0039070	Syncope
+C0039075	Syndactyly
+C0039082	Syndrome
+C0039101	Sarcoma, Synovial
+C0039103	Synovitis
+C0039128	Syphilis
+C0039131	Syphilis, Congenital
+C0039133	Syphilis, Latent
+C0039231	Tachycardia
+C0039239	Tachycardia, Sinus
+C0039240	Tachycardia, Supraventricular
+C0039254	Teniasis
+C0039263	Takayasu's Arteritis
+C0039292	Tangier Disease
+C0039334	Task Performance and Analysis
+C0039338	Taste Disorders
+C0039339	Taste Threshold
+C0039373	Tay-Sachs Disease
+C0039445	Telangiectasia, Hereditary Hemorrhagic
+C0039446	Telangiectasis
+C0039478	Temperature Sense
+C0039483	Temporal Arteritis
+C0039494	Temporomandibular Joint Disorders
+C0039503	Tendinitis
+C0039520	Tenosynovitis
+C0039584	Testicular Diseases
+C0039585	Androgen-Insensitivity Syndrome
+C0039590	Testicular Neoplasms
+C0039614	Tetanus
+C0039621	Tetany
+C0039685	Tetralogy_of_Fallot
+C0039730	Thalassemia
+C0039743	Thanatophoric Dysplasia
+C0039841	Thiamine Deficiency
+C0039869	Thinking
+C0039870	Thinness
+C0039981	Thoracic Neoplasms
+C0040015	Thrombasthenia
+C0040021	Thromboangiitis Obliterans
+C0040028	Thrombocythemia, Hemorrhagic
+C0040034	Thrombocytopenia
+C0040038	Thromboembolism
+C0040046	Thrombophlebitis
+C0040053	Thrombosis
+C0040100	Thymoma
+C0040115	Thymus Hyperplasia
+C0040116	Thymus Neoplasms
+C0040127	Thyroid Crisis
+C0040128	Thyroid Diseases
+C0040136	Thyroid Neoplasms
+C0040137	Thyroid Nodule
+C0040147	Thyroiditis
+C0040149	Thyroiditis, Subacute
+C0040156	Thyrotoxicosis
+C0040188	Tic Disorders
+C0040226	Time Perception
+C0040247	Tinea
+C0040250	Tinea Capitis
+C0040252	Tinea corporis (disorder)
+C0040259	Tinea Pedis
+C0040261	Onychomycosis
+C0040262	Tinea Versicolor
+C0040264	Tinnitus
+C0040336	Tobacco Use Disorder
+C0040411	Tongue Neoplasms
+C0040422	Tonsillar Neoplasms
+C0040425	Tonsillitis
+C0040427	Tooth Abnormalities
+C0040435	Tooth Diseases
+C0040445	Tooth Mobility
+C0040460	Toothache
+C0040479	Torsades de Pointes
+C0040485	Torticollis
+C0040517	Tourette Syndrome
+C0040553	Toxocariasis
+C0040558	Toxoplasmosis
+C0040560	Toxoplasmosis, Congenital
+C0040592	Trachoma
+C0040604	Trail Making Test
+C0040715	Translocation, Genetic
+C0040822	Tremor
+C0040896	Trichinellosis
+C0040921	Trichomonas Infections
+C0040954	Infection by Trichuris trichiura
+C0040961	Tricuspid Valve Insufficiency
+C0040997	Trigeminal Neuralgia
+C0041107	Trisomy
+C0041228	Trypanosomiasis, African
+C0041234	Chagas Disease
+C0041296	Tuberculosis
+C0041316	Tuberculosis, Lymph Node
+C0041318	Tuberculosis, Meningeal
+C0041321	Tuberculosis, Miliary
+C0041324	Tuberculosis, Osteoarticular
+C0041326	Tuberculosis, Pleural
+C0041327	Tuberculosis, Pulmonary
+C0041330	Tuberculosis, Spinal
+C0041341	Tuberous Sclerosis
+C0041343	Tubo-ovarian abscess
+C0041351	Tularemia
+C0041374	Tumor Virus Infections
+C0041408	Turner Syndrome
+C0041466	Typhoid Fever
+C0041471	TYPHUS
+C0041472	Endemic Flea-Borne Typhus
+C0041473	Typhus, Epidemic Louse-Borne
+C0041582	Ulcer
+C0041648	Infection by Uncinaria
+C0041657	Unconsciousness
+C0041834	Erythema
+C0041909	Upper gastrointestinal hemorrhage
+C0041912	Upper Respiratory Infections
+C0041948	Uremia
+C0041955	Ureteral Neoplasms
+C0041956	Ureteral Obstruction
+C0041976	Urethritis
+C0042018	Urinary Calculi
+C0042023	Increased frequency of micturition
+C0042024	Urinary Incontinence
+C0042025	Urinary Incontinence, Stress
+C0042029	Urinary Tract Infections
+C0042035	Urination Disorders
+C0042063	Urogenital Abnormalities
+C0042065	Urogenital Neoplasms
+C0042075	Urologic Diseases
+C0042076	Urologic Neoplasms
+C0042109	Urticaria
+C0042111	Urticaria Pigmentosa
+C0042131	Uterine Diseases
+C0042133	Uterine Fibroids
+C0042135	Uterine Inertia
+C0042138	Uterine Neoplasms
+C0042162	Uveal Neoplasms
+C0042164	Uveitis
+C0042165	Uveitis, Anterior
+C0042166	Uveitis, Intermediate
+C0042167	Uveitis, Posterior
+C0042170	Uveomeningoencephalitic Syndrome
+C0042251	Vaginal Diseases
+C0042341	Varicocele
+C0042344	Varicose Ulcer
+C0042345	Varicose Veins
+C0042373	Vascular Diseases
+C0042376	Vascular Headaches
+C0042384	Vasculitis
+C0042385	Vasculitis, Allergic Cutaneous
+C0042420	Syncope, Vasovagal
+C0042485	Venous Insufficiency
+C0042487	Venous Thrombosis
+C0042510	Ventricular Fibrillation
+C0042512	Ventricular Outflow Obstruction
+C0042514	Tachycardia, Ventricular
+C0042531	Verbal Learning
+C0042548	Plantar wart
+C0042571	Vertigo
+C0042580	Vesico-Ureteral Reflux
+C0042594	Vestibular Diseases
+C0042749	Viremia
+C0042755	Virilism
+C0042769	Virus Diseases
+C0042789	Vision
+C0042790	Vision Disorders
+C0042798	Vision, Low
+C0042830	Visual Perception
+C0042842	Vitamin A Deficiency
+C0042847	Vitamin B 12 Deficiency
+C0042850	Vitamin B Deficiency
+C0042870	Vitamin D Deficiency
+C0042875	Vitamin E Deficiency
+C0042880	Vitamin K Deficiency
+C0042900	Vitiligo
+C0042950	Volition
+C0042963	Vomiting
+C0042974	von Willebrand Disease
+C0042994	Vulvar Diseases
+C0042995	Vulvar Neoplasms
+C0042996	Vulvitis
+C0042998	Vulvovaginitis
+C0043012	Wakefulness
+C0043037	Warts
+C0043046	Wasting Syndrome
+C0043049	Water Intoxication
+C0043089	Wechsler Scales
+C0043092	Wegener Granulomatosis
+C0043094	Weight Gain
+C0043096	Weight Loss
+C0043102	Weil Disease
+C0043117	Purpura, Thrombocytopenic, Idiopathic
+C0043119	Werner Syndrome
+C0043124	West Nile Fever
+C0043144	Wheezing
+C0043145	Whiplash Injuries
+C0043167	Pertussis
+C0043202	Wolff-Parkinson-White Syndrome
+C0043207	Wolfram Syndrome
+C0043208	Wolman Disease
+C0043250	Injury wounds
+C0043253	Wounds, Nonpenetrating
+C0043254	Wounds, Penetrating
+C0043264	Wrist Injuries
+C0043325	Xanthomatosis
+C0043346	Xeroderma Pigmentosum
+C0043352	Xerostomia
+C0043379	XYY Karyotype
+C0043388	Yaws
+C0043395	Yellow Fever
+C0043515	Zollinger-Ellison syndrome
+C0078888	Accelerated Idioventricular Rhythm
+C0078917	Albinism, Ocular
+C0078918	Albinism, Oculocutaneous
+C0079027	Blood Loss, Surgical
+C0079153	Hyperkeratosis, Epidermolytic
+C0079218	Fibromatosis, Aggressive
+C0079294	Epidermolysis Bullosa Dystrophica
+C0079487	Helicobacter Infections
+C0079504	Hermanski-Pudlak Syndrome
+C0079541	Holoprosencephaly
+C0079583	Ichthyosiform Erythroderma, Congenital
+C0079588	Ichthyosis, X-Linked
+C0079731	Lymphoma, B-Cell
+C0079744	Lymphoma, Large-Cell, Diffuse
+C0079746	Lymphoma, Large-Cell, Immunoblastic
+C0079748	Lymphoma, Lymphoblastic
+C0079772	Lymphoma, T-Cell
+C0079773	Lymphoma, T-Cell, Cutaneous
+C0079774	Lymphoma, T-Cell, Peripheral
+C0079924	Oligohydramnios
+C0080032	Pleural Effusion, Malignant
+C0080040	Postpoliomyelitis Syndrome
+C0080174	Spina Bifida Occulta
+C0080178	Spinal Dysraphism
+C0080179	Spinal Fractures
+C0080233	Tooth Loss
+C0080274	Urinary Retention
+C0085073	Prosthesis-Related Infections
+C0085074	Granuloma Annulare
+C0085078	Lysosomal Storage Diseases
+C0085082	Fungemia
+C0085083	Ovarian Hyperstimulation Syndrome
+C0085084	Motor Neuron Disease
+C0085090	Lymphoma, AIDS-Related
+C0085094	Head Injuries, Closed
+C0085096	Peripheral Vascular Diseases
+C0085110	Severe Combined Immunodeficiency
+C0085129	Bronchial Hyperreactivity
+C0085132	Mucopolysaccharidosis_VII
+C0085136	Central Nervous System Neoplasms
+C0085138	Choroid Plexus Neoplasms
+C0085159	Seasonal Affective Disorder
+C0085166	Vaginosis, Bacterial
+C0085179	Eosinophilia-Myalgia Syndrome
+C0085183	Neoplasms, Second Primary
+C0085207	Diabetes, Gestational
+C0085215	Ovarian Failure, Premature
+C0085220	Cerebral Amyloid Angiopathy
+C0085253	Still's Disease, Adult-Onset
+C0085257	Yin Deficiency
+C0085258	Yang Deficiency
+C0085261	Proteus Syndrome
+C0085278	Antiphospholipid Syndrome
+C0085280	Alagille Syndrome
+C0085285	Mental Competency
+C0085293	Hepatitis E
+C0085298	Death, Sudden, Cardiac
+C0085315	Toxoplasmosis, Cerebral
+C0085390	Li-Fraumeni Syndrome
+C0085394	Serratia Infections
+C0085395	Ureaplasma Infections
+C0085409	Polyendocrinopathies, Autoimmune
+C0085413	Polycystic Kidney, Autosomal Dominant
+C0085417	Epilepsy, Complex Partial
+C0085423	Gram-Negative Bacterial Infections
+C0085435	Arthritis, Reactive
+C0085436	Meningitis, Cryptococcal
+C0085437	Meningitis, Bacterial
+C0085438	Meningitis, Fungal
+C0085541	Epilepsy, Frontal Lobe
+C0085547	Phenylketonuria, Maternal
+C0085548	Polycystic Kidney, Autosomal Recessive
+C0085605	Liver Failure
+C0085606	Urgency of micturition
+C0085610	Sinus bradycardia
+C0085612	Ventricular arrhythmia
+C0085631	Psychomotor Agitation
+C0085636	Photophobia
+C0085649	Peripheral edema
+C0085652	Pyoderma Gangrenosum
+C0085655	Polymyositis
+C0085656	Nummular eczema
+C0085677	Alcoholic Neuropathy
+C0085681	Hyperphosphatemia (disorder)
+C0085682	Hypophosphatemia
+C0085786	Hamman-Rich syndrome
+C0086032	Color Vision
+C0086227	Enterobiasis
+C0086439	Hypokinesia
+C0086543	Cataract
+C0086651	Mucopolysaccharidosis, MPS-IV-A
+C0087012	Spinocerebellar Ataxias
+C0087130	Uncertainty
+C0149521	Pancreatitis, Chronic
+C0149526	Allergic urticaria
+C0149654	Conduct Disorder
+C0149678	Epstein-Barr Virus Infections
+C0149704	Gingivostomatitis
+C0149721	Hypertrophy, Left Ventricular
+C0149725	Lower respiratory tract infection
+C0149745	Oral Ulcer
+C0149782	Squamous cell carcinoma of lung
+C0149871	Deep Vein Thrombosis
+C0149893	Secondary glaucoma
+C0149911	Humoral hypercalcemia of malignancy (disorder)
+C0149922	Lichen Simplex Chronicus
+C0149925	Carcinoma, Small Cell
+C0149931	Migraine Disorders
+C0149948	Acute otitis externa
+C0149966	Gonorrhea of pharynx
+C0149985	Syphilis, secondary
+C0150045	Urinary Incontinence, Urge
+C0150055	Chronic pain
+C0151436	Vasculitis, Hypersensitivity
+C0151467	Addisonian crisis
+C0151482	Megaloblastic anemia due to folate deficiency
+C0151491	Musculoskeletal Abnormalities
+C0151526	Premature Birth
+C0151636	Ventricular Premature Complexes
+C0151686	Growth retardation
+C0151699	Intracranial Hemorrhages
+C0151714	Hypermagnesemia
+C0151721	Testicular hypogonadism
+C0151723	Hypomagnesemia
+C0151740	Intracranial Hypertension
+C0151744	Myocardial Ischemia
+C0151786	Muscle Weakness
+C0151874	Fungal infection of lung
+C0151907	Discoloration of skin
+C0151908	Dry skin
+C0151940	Hypocalcemic tetany
+C0152020	Gastroparesis
+C0152025	Polyneuropathies
+C0152026	Retinal Vasculitis
+C0152030	Skin irritation
+C0152068	Echinococcus granulosus infection
+C0152072	Ovale malaria
+C0152101	Hypoplastic Left Heart Syndrome
+C0152136	Low Tension Glaucoma
+C0152253	Posterior synechiae
+C0152486	Salmonella sepsis
+C0152499	Acute amebiasis
+C0152516	Bacterial enteritis
+C0152936	Plague, Septicemic
+C0152945	Gastrointestinal anthrax
+C0152946	Anthrax sepsis
+C0152964	Streptococcal sepsis
+C0152965	Staphylococcal bacteraemia
+C0152967	Septicemia due to anaerobes
+C0152973	Serratia sepsis
+C0153027	Herpes zoster keratoconjunctivitis
+C0153188	Syphilis, tertiary
+C0153193	Acute gonococcal epididymo-orchitis
+C0153195	Acute gonococcal cervicitis
+C0153196	Acute gonococcal endometritis
+C0153216	Gonococcal joint infection
+C0153225	Gonococcal meningitis
+C0153227	Gonococcal endocarditis
+C0153240	Latent yaws
+C0153246	Tinea manus
+C0153252	Systemic candidiasis
+C0153254	Candidal endocarditis
+C0153256	Candidal meningitis
+C0153289	Echinococcus granulosus infection of liver
+C0153290	Echinococcus granulosus infection of lung
+C0153467	Malignant tumor of peritoneum
+C0153579	Malignant neoplasm of fallopian tube
+C0153594	Malignant neoplasm of testis
+C0153601	Malignant neoplasm of penis
+C0153633	Malignant neoplasm of brain
+C0153685	Secondary malignant neoplasm of kidney
+C0154246	Urea Cycle Disorders, Inborn
+C0154251	Lipid Metabolism Disorders
+C0154301	Acquired thrombocytopenia
+C0154639	Streptococcal meningitis
+C0154640	Staphylococcal meningitis
+C0154723	Migraine with Aura
+C0154731	Glossopharyngeal Neuralgia
+C0154778	Myopia, Degenerative
+C0155213	Hypertrichosis of eyelid
+C0155305	Optic Neuropathy, Ischemic
+C0155440	Chronic tubotympanic suppurative otitis media
+C0155626	Acute myocardial infarction
+C0155749	Arterial embolus and thrombosis
+C0155804	Acute maxillary sinusitis
+C0155814	Acute epiglottitis
+C0155860	Pneumonia due to Pseudomonas
+C0155862	Streptococcal pneumonia
+C0155866	Inhalational anthrax
+C0155877	Allergic asthma
+C0155880	Intrinsic asthma
+C0155919	Acute pulmonary edema
+C0156393	Atrophy of vulva
+C0156543	Unspecified Abortion
+C0156677	Eclampsia in pregnancy
+C0157726	Corns and callus
+C0157749	Arthropathy associated with infection
+C0158266	Intervertebral Disk Degeneration
+C0158371	Acute osteomyelitis
+C0158570	Vascular Malformations
+C0158996	Anemia of prematurity
+C0162283	Diabetes Insipidus, Nephrogenic
+C0162309	Adrenoleukodystrophy
+C0162316	Anemia, Iron-Deficiency
+C0162429	Malnutrition
+C0162494	Pregnancy Complications, Parasitic
+C0162526	AIDS-Related Opportunistic Infections
+C0162529	Colitis, Ischemic
+C0162534	Prion Diseases
+C0162538	IgA Deficiency
+C0162539	IgG Deficiency
+C0162550	Akathisia, Drug-Induced
+C0162557	Liver Failure, Acute
+C0162565	Porphyria, Acute Intermittent
+C0162566	Porphyria Cutanea Tarda
+C0162568	Protoporphyria, Erythropoietic
+C0162627	Skin Diseases, Bacterial
+C0162628	Skin Diseases, Viral
+C0162635	Angelman Syndrome
+C0162666	Mitochondrial Encephalomyopathies
+C0162670	Mitochondrial Myopathies
+C0162671	MELAS Syndrome
+C0162674	Ophthalmoplegia, Chronic Progressive External
+C0162677	Caliciviridae Infections
+C0162678	Neurofibromatoses
+C0162703	Pain Threshold
+C0162739	HELLP Syndrome
+C0162770	Hypertrophy, Right Ventricular
+C0162809	Kallmann Syndrome
+C0162810	Cicatrix, Hypertrophic
+C0162820	Dermatitis, Allergic Contact
+C0162834	Hyperpigmentation
+C0162835	Hypopigmentation
+C0162836	Hidradenitis Suppurativa
+C0162869	Aneurysm, Ruptured
+C0162871	Aortic Aneurysm, Abdominal
+C0162872	Aortic Aneurysm, Thoracic
+C0175167	Acneiform Eruptions
+C0175683	Citrullinemia
+C0175693	Silver-Russell Syndrome
+C0175694	Smith-Lemli-Opitz Syndrome
+C0175702	Williams Syndrome
+C0175704	LEOPARD Syndrome
+C0178299	Infection of skin AND/OR subcutaneous tissue
+C0178416	Hypoplastic anemia
+C0184567	Acute onset pain
+C0205770	Papilloma, Choroid Plexus
+C0206042	Insomnia, Fatal Familial
+C0206062	Lung Diseases, Interstitial
+C0206063	Radiation Pneumonitis
+C0206064	Microvascular Angina
+C0206067	Focal Epithelial Hyperplasia
+C0206081	Hyperandrogenism
+C0206100	Signal Detection, Psychological
+C0206114	Periodontal Attachment Loss
+C0206139	Lichen Planus, Oral
+C0206141	Idiopathic Hypereosinophilic Syndrome
+C0206146	Myocardial Stunning
+C0206171	Community-Acquired Infections
+C0206172	Diabetic Foot
+C0206178	Cytomegalovirus Retinitis
+C0206180	Lymphoma, Large-Cell, Ki-1
+C0206245	Amyloid Neuropathies, Familial
+C0206247	Amyloid Neuropathies
+C0206307	Canavan Disease
+C0206366	Ossification of Posterior Longitudinal Ligament
+C0206368	Exfoliation Syndrome
+C0206504	Tympanic Membrane Perforation
+C0206525	Tuberculosis, Drug-Resistant
+C0206586	Endolymphatic Hydrops
+C0206609	Flaviviridae Infections
+C0206613	Paramyxoviridae Infections
+C0206616	Personal Construct Theory
+C0206622	Adenomyoma
+C0206623	Carcinoma, Adenosquamous
+C0206624	Hepatoblastoma
+C0206633	Angiomyolipoma
+C0206646	Fibromatosis, Abdominal
+C0206650	Fibroadenoma
+C0206654	Leiomyomatosis
+C0206660	Germinoma
+C0206661	Gonadoblastoma
+C0206663	Neuroectodermal Tumors, Primitive
+C0206669	Adenoma, Liver Cell
+C0206677	Adenomatous Polyps
+C0206681	Adenocarcinoma, Clear Cell
+C0206682	Adenocarcinoma, Follicular
+C0206683	Carcinoma, Papillary, Follicular
+C0206686	Adrenocortical Carcinoma
+C0206687	Carcinoma, Endometrioid
+C0206692	Carcinoma, Lobular
+C0206693	Carcinoma, Medullary
+C0206695	Carcinoma, Neuroendocrine
+C0206698	Cholangiocarcinoma
+C0206699	Cystadenocarcinoma, Mucinous
+C0206701	Cystadenocarcinoma, Serous
+C0206703	Carcinoma, Giant Cell
+C0206704	Carcinoma, Large Cell
+C0206708	Cervical Intraepithelial Neoplasia
+C0206709	Cystadenoma, Serous
+C0206710	Neoplasms, Basal Cell
+C0206716	Ganglioglioma
+C0206720	Neoplasms, Squamous Cell
+C0206722	Neoplasms, Gonadal Tissue
+C0206727	Nerve Sheath Neoplasms
+C0206733	Hemangioma, Capillary
+C0206734	Hemangioblastoma
+C0206735	Melanoma, Amelanotic
+C0206736	Nevus, Blue
+C0206738	Nevus, Spindle Cell
+C0206743	Rhabdoid Tumor
+C0206752	Alphavirus Infections
+C0206754	Neuroendocrine Tumors
+C0206762	Limb Deformities, Congenital
+C0220655	Malignant pericardial effusion
+C0220656	Malignant ascites
+C0220756	Niemann-Pick Disease, Type C
+C0220785	Anthropology
+C0220987	Hereditary orotic aciduria
+C0220989	Acquired partial lipodystrophy
+C0220994	Hyperammonemia
+C0221002	Hyperparathyroidism, Primary
+C0221013	Mastocytosis, Systemic
+C0221023	Cyclic neutropenia
+C0221032	Familial generalized lipodystrophy
+C0221074	Depression, Postpartum
+C0221154	Paroxysmal hypertension
+C0221263	Cafe-au-Lait Spots
+C0221269	Pseudolymphoma
+C0221392	Atrophic Vaginitis
+C0221406	Pituitary ACTH Hypersecretion
+C0221468	Vitamin D-dependent rickets
+C0221757	alpha 1-Antitrypsin Deficiency
+C0221765	Chronic schizophrenia
+C0231341	Aging, Premature
+C0231403	Severe anxiety (panic)
+C0231528	Myalgia
+C0232058	Apnea in the newborn
+C0232849	Bladder pain
+C0232940	Secondary physiologic amenorrhea
+C0233485	apprehension
+C0233494	Tension
+C0233828	Intuition
+C0234194	Pain Perception
+C0234421	Consciousness
+C0234925	Greasy skin
+C0234974	Simple Partial Seizures
+C0234978	Motor cortex epilepsy
+C0235032	Neurotoxicity Syndromes
+C0235063	Respiratory Depression
+C0235238	Cycloplegia
+C0235267	Redness of eye
+C0235339	Mouth irritation
+C0235480	Paroxysmal atrial fibrillation
+C0235950	Zinc deficiency
+C0236642	Pick Disease of the Brain
+C0236663	Alcohol withdrawal syndrome
+C0236664	Alcohol-Related Disorders
+C0236733	Amphetamine-Related Disorders
+C0236736	Cocaine-Related Disorders
+C0236780	Mixed bipolar I disorder
+C0236792	Asperger Syndrome
+C0236811	Chronobiology Disorders
+C0236816	Stress Disorders, Traumatic, Acute
+C0236964	Attention Deficit and Disruptive Behavior Disorder
+C0236969	Substance-Related Disorders
+C0236970	Alcohol-Induced Disorders
+C0237104	Spirituality
+C0237873	Sexual Dysfunction, Physiological
+C0237963	Poisoning by acetaminophen
+C0237996	anticholinergic toxicity
+C0238052	Xanthomatosis, Cerebrotendinous
+C0238080	Toxic effect of cyanide
+C0238096	Embolism, Paradoxical
+C0238111	Lennox-Gastaut syndrome
+C0238190	Myositis, Inclusion Body
+C0238198	Gastrointestinal Stromal Tumors
+C0238217	Renal transplant rejection
+C0238298	Myxedema coma
+C0238357	Paralysis, Hyperkalemic Periodic
+C0238358	Hypokalemic Periodic Paralysis
+C0238425	Hemoglobin SS disease with crisis
+C0238452	Thallium poisoning
+C0238462	Medullary carcinoma of thyroid
+C0238463	Papillary thyroid carcinoma
+C0239295	Candidiasis of the esophagus
+C0241310	Suprapubic pain
+C0241910	Hepatitis, Autoimmune
+C0241961	Angiomyolipoma of kidney
+C0242172	Pelvic Inflammatory Disease
+C0242216	Gallstones
+C0242231	Coronary Stenosis
+C0242339	Dyslipidemias
+C0242350	Erectile dysfunction
+C0242379	Malignant neoplasm of lung
+C0242383	Age related macular degeneration
+C0242422	Parkinsonian Disorders
+C0242429	Sore Throat
+C0242453	Prostatism
+C0242459	Simple Pulmonary Eosinophilia
+C0242488	Acute Lung Injury
+C0242596	Neoplasm, Residual
+C0242604	Thyroid Hormone Resistance Syndrome
+C0242647	Lymphoma, Mucosa-Associated Lymphoid Tissue
+C0242666	Protein S Deficiency
+C0242670	Persistent Vegetative State
+C0242698	Ventricular Dysfunction, Left
+C0242707	Ventricular Dysfunction, Right
+C0242723	Parasitemia
+C0242788	Breast Neoplasms, Male
+C0242852	Vitreoretinopathy, Proliferative
+C0242855	Congenital atresia of pulmonary valve
+C0242966	Systemic Inflammatory Response Syndrome
+C0242973	Ventricular Dysfunction
+C0242992	Multiple Chemical Sensitivity
+C0242996	Maze Learning
+C0243000	Impotence, Vasculogenic
+C0243001	Abdominal Abscess
+C0243002	Tricuspid Atresia
+C0243025	Hantavirus Pulmonary Syndrome
+C0243026	Sepsis
+C0243050	Cardiovascular Abnormalities
+C0259799	Punctate keratitis
+C0260662	Hearing Disorders
+C0261439	Accidental poisoning by methyl alcohol
+C0261486	Accidental poisoning by lead and its compounds and fumes
+C0262399	shoulder bursitis
+C0262633	Shoulder tendinitis
+C0263283	Contact dermatitis due to Rhus diversiloba
+C0263859	Acquired Hyperostosis Syndrome
+C0264115	Drug-induced osteoporosis
+C0264515	Pneumonia, Necrotizing
+C0264716	Chronic heart failure
+C0264939	Systemic Vasculitis
+C0265706	Gastroschisis
+C0265965	Dyskeratosis Congenita
+C0266015	Digestive System Abnormalities
+C0266463	Lissencephaly
+C0266929	Chronic Periodontitis
+C0267055	Erosive esophagitis
+C0267176	Gastroparesis due to diabetes mellitus
+C0267390	Chronic ulcerative rectosigmoiditis
+C0267436	Non-infective diarrhea
+C0267509	Chronic idiopathic constipation
+C0267511	Drug-induced constipation
+C0267941	Pancreatitis, Acute Necrotizing
+C0267963	Exocrine Pancreatic Insufficiency
+C0268108	Chronic gouty arthritis
+C0268490	Tyrosinemia, Type I
+C0268542	Ornithine Carbamoyltransferase Deficiency Disease
+C0268596	Multiple Acyl Coenzyme A Dehydrogenase Deficiency
+C0269050	Endomyometritis
+C0269084	Vulvar Vestibulitis
+C0269398	Miscarriage with sepsis
+C0269658	Mild pre-eclampsia
+C0270327	Bedwetting
+C0270328	Diurnal Enuresis
+C0270425	Bipolar disorder in remission
+C0270458	Severe major depression with psychotic features
+C0270549	Generalized Anxiety Disorder
+C0270611	Brain Injuries
+C0270612	Leukoencephalopathies
+C0270736	Essential Tremor
+C0270846	Epileptic drop attack
+C0270851	Epilepsy, Benign Neonatal
+C0270853	Myoclonic Epilepsy, Juvenile
+C0270857	Epilepsy, Reflex
+C0271066	Choroidal retinal neovascularization
+C0271084	Exudative age-related macular degeneration
+C0271093	Stargardt's disease
+C0271097	Usher Syndromes
+C0271152	Malignant glaucoma
+C0271429	Acute otitis media
+C0271568	Laron Syndrome
+C0271578	Female hypogonadism syndrome
+C0271623	Hypogonadotropic hypogonadism
+C0271650	Glucose Intolerance
+C0271693	Acquired generalized lipodystrophy
+C0271694	Lipodystrophy, Familial Partial
+C0271815	Postpartum Thyroiditis
+C0272275	Heparin-induced thrombocytopenia with thrombosis
+C0272293	Chronic idiopathic thrombocytopenic purpura
+C0272325	Factor 8 deficiency, acquired
+C0272373	Drug-induced coagulation inhibitor disorder
+C0272375	Antithrombin III Deficiency
+C0273115	Lung Injury
+C0274462	Poisoning by sulfadiazine
+C0274478	Poisoning by pyrimethamine
+C0274726	Poisoning by digitalis glycoside
+C0275550	Acute bacterial peritonitis
+C0275555	Acute bacterial epiglottitis
+C0275556	Acute bacterial sinusitis
+C0275566	Pulmonary actinomycosis
+C0275652	Acute gonococcal urethritis
+C0275665	Gonorrhea of rectum
+C0275761	Pneumococcal pharyngitis
+C0275793	Staphylococcal tonsillitis
+C0275794	Staphylococcal pharyngitis
+C0275804	Streptococcal tonsillitis
+C0275842	Early latent syphilis, positive serology, negative cerebrospinal fluid, less than 2 years after infection
+C0275959	Acute tuberculosis
+C0275979	Infection by Campylobacter fetus
+C0275982	Enteric campylobacteriosis
+C0276026	Haemophilus influenzae pneumonia
+C0276064	Septicemia due to Bacteroides
+C0276075	Infection due to Pseudomonas aeruginosa
+C0276085	Ecthyma gangrenosum
+C0276088	Escherichia coli septicemia
+C0276089	Pneumonia due to Escherichia coli
+C0276226	Encephalitis, Herpes Simplex
+C0276228	Herpes simplex keratoconjunctivitis
+C0276535	AIDS with Kaposi's sarcoma
+C0276587	Nutritional deficiency associated with AIDS
+C0276648	Mycotic endocarditis
+C0276653	Invasive Pulmonary Aspergillosis
+C0276688	Pulmonary cryptococcosis
+C0276725	Disseminated sporotrichosis
+C0276754	Onychomycosis due to Trichophyton rubrum
+C0276755	Onychomycosis due to Trichophyton mentagrophytes
+C0276758	Fusariosis
+C0277528	Traveler's diarrhea
+C0277919	Postthrombotic Syndrome
+C0278076	Tics
+C0278140	Severe pain
+C0278488	Carcinoma breast stage IV
+C0278498	Malignant neoplasm of stomach stage IV
+C0278678	Metastatic Renal Cell Cancer
+C0278701	Gastric Adenocarcinoma
+C0278996	Cancer of Head and Neck
+C0279543	Philadelphia chromosome positive chronic myelogenous leukemia
+C0280324	Laryngeal Squamous Cell Carcinoma
+C0281361	Adenocarcinoma of pancreas
+C0282193	Iron Overload
+C0282488	Cystitis, Interstitial
+C0282492	Sneddon Syndrome
+C0282504	Environmental Illness
+C0282507	Heat Stress Disorders
+C0282513	Aphasia, Primary Progressive
+C0282550	Persian Gulf Syndrome
+C0282577	Congenital Disorders of Glycosylation
+C0282606	Muscle Neoplasms
+C0282612	Prostatic Intraepithelial Neoplasia
+C0282631	Facies
+C0282677	Burkholderia Infections
+C0302535	Tooth, Nonvital
+C0302592	Cervix carcinoma
+C0311277	Obesity, Abdominal
+C0311375	Arsenic Poisoning
+C0314657	Genetic Predisposition to Disease
+C0333355	Mucositis
+C0333641	Atrophy
+C0333980	Focal Nodular Hyperplasia
+C0334579	Anaplastic astrocytoma
+C0334634	Lymphoma, Mantle-Cell
+C0338395	Meningitis, Escherichia coli
+C0338396	Proteus meningitis
+C0338437	Neurocysticercosis
+C0338451	Frontotemporal Dementia
+C0338480	Migraine without Aura
+C0338586	Vertebral Artery Dissection
+C0338591	Amnesia, Transient Global
+C0338873	Bipolar affective disorder, current episode manic
+C0338908	Mixed anxiety and depressive disorder
+C0339143	Graves Ophthalmopathy
+C0339170	Fungal conjunctivitis
+C0339293	Corneal Perforation
+C0339498	Central retinal vein occlusion with macular edema
+C0339507	Branch retinal vein occlusion with macular edema
+C0339527	Leber Congenital Amaurosis
+C0339932	Acute Moraxella catarrhalis bronchitis
+C0339933	Acute bacterial bronchitis
+C0339959	Chlamydial pneumonia
+C0339968	Neonatal pneumonia
+C0340274	Hypertension, Pregnancy-Induced
+C0340293	Anterior Wall Myocardial Infarction
+C0340354	Q fever endocarditis
+C0340970	Congenital neutropenia
+C0341106	Eosinophilic Esophagitis
+C0341503	Bacterial peritonitis
+C0341823	Epithelial tumor of ovary
+C0341834	Chlamydial cervicitis
+C0341950	Severe pre-eclampsia
+C0342257	Diabetes Complications
+C0342527	Deficiency of testosterone biosynthesis
+C0342634	Neonatal hypocalcemia
+C0342731	Mevalonate Kinase Deficiency
+C0342751	Generalized glycogen storage disease of infants
+C0342826	3-Beta-hydroxy-delta-5-C27-steroid dehydrogenase deficiency
+C0342827	Delta-4-3-oxosteroid-5-beta-reductase deficiency
+C0342881	Familial hypercholesterolemia - homozygous
+C0342882	Familial hypercholesterolemia - heterozygous
+C0342907	Sitosterolemia
+C0342985	Superficial bacterial infection of skin
+C0343065	Symptomatic dermographism
+C0343378	Helicobacter-associated gastritis
+C0343386	Clostridium difficile infection
+C0343402	Bacterial infection due to Klebsiella pneumoniae
+C0343467	Erythema nodosum leprosum
+C0343500	Gas gangrene caused by clostridium perfringens
+C0343532	Streptococcal toxic shock syndrome
+C0343730	Perianal warts
+C0343833	Tertiary lesion of yaws
+C0343886	Gastrointestinal candidiasis
+C0345335	Multicystic Dysplastic Kidney
+C0345468	Transplanted organ rejection
+C0345904	Malignant neoplasm of liver
+C0346161	Malignant epithelial tumor of ovary
+C0346302	Growth Hormone-Secreting Pituitary Adenoma
+C0346421	Chronic eosinophilic leukemia
+C0346974	Secondary malignant neoplasm of colon
+C0346976	Secondary malignant neoplasm of pancreas
+C0346993	Secondary malignant neoplasm of female breast
+C0347950	Asthma attack
+C0348868	Listerial endocarditis
+C0348898	Irritable bowel syndrome with diarrhea
+C0349009	Septicemia candida
+C0349231	Phobic Disorders
+C0349464	Wernicke-Korsakoff Syndrome
+C0349506	Photosensitivity of skin
+C0349543	Glioblastoma multiforme of brain
+C0349636	Pre B-cell acute lymphoblastic leukemia
+C0349639	Leukemia, Myelomonocytic, Juvenile
+C0349649	Pulmonary lymphangioleiomyomatosis
+C0349719	Herpes simplex infection of skin
+C0349734	Female pelvic cellulitis
+C0349774	Diverticulitis of gastrointestinal tract
+C0349788	Arrhythmogenic Right Ventricular Dysplasia
+C0349790	Exacerbation of asthma
+C0362046	Prediabetic State
+C0376286	Avitaminosis
+C0376287	Behavior Control
+C0376358	Malignant neoplasm of prostate
+C0376480	Gingival Overgrowth
+C0376545	Hematologic Neoplasms
+C0376549	Roseolovirus Infections
+C0376618	Endotoxemia
+C0376620	Pouchitis
+C0376628	Chromosome Breakage
+C0376634	Craniofacial Abnormalities
+C0376670	Pancreatitis, Alcoholic
+C0392164	Pulmonary Cystic Fibrosis
+C0392171	Influenza-like symptoms
+C0392190	Mucositis following radiation therapy
+C0392445	Necrobiosis Lipoidica Diabeticorum
+C0392525	Nephrolithiasis
+C0392618	Postoperative infection
+C0392784	Dermatofibrosarcoma Protuberans
+C0393571	Multiple System Atrophy
+C0393593	Dystonic Disorders
+C0393665	Multiple Sclerosis, Chronic Progressive
+C0393735	Headache Disorders
+C0393760	Initial insomnia
+C0393772	Non-24 hour sleep-wake cycle
+C0395818	Malignant otitis externa due to Pseudomonas aeruginosa
+C0398353	Hypoventilation
+C0398623	Thrombophilia
+C0398625	Protein C Deficiency
+C0398775	Hereditary C1 esterase inhibitor deficiency - deficient factor
+C0398791	Nijmegen Breakage Syndrome
+C0399352	Anodontia
+C0399523	Malocclusion, Angle Class I
+C0400821	Colitis, Microscopic
+C0400877	Postoperative ileus
+C0400968	Liver transplant rejection
+C0401160	Chemotherapy-induced nausea and vomiting
+C0403447	Renal Insufficiency, Chronic
+C0403529	Anti-Glomerular Basement Membrane Disease
+C0403643	Bladder muscle dysfunction - overactive
+C0403823	Asthenozoospermia
+C0405124	Nuchal Cord
+C0405580	Adrenal cortical hypofunction
+C0406317	Chronic small plaque psoriasis
+C0406326	Scalp psoriasis
+C0406486	Ocular Rosacea
+C0406526	Neuropathic diabetic ulcer - foot
+C0406810	Carney Complex
+C0409818	Chronic Infantile Neurological, Cutaneous, and Articular Syndrome
+C0409959	Osteoarthritis, Knee
+C0410065	Dupuytren's disease of finger, with contracture
+C0412842	Poisoning by iron AND/OR its compounds
+C0412850	Poisoning by opiate analgesic drug
+C0413194	Ethylene glycol poisoning (disorder)
+C0421162	Meningococcus carrier
+C0423234	Punctate keratopathy
+C0423673	Pain in spine
+C0423772	Cutaneous Fistula
+C0423775	Scurfiness of scalp
+C0423909	Memory, Long-Term
+C0424295	Hyperkinesis
+C0424620	Excess subcutaneous fat
+C0426639	Incomplete passage of stool
+C0428974	Supraventricular arrhythmia
+C0428977	Bradycardia
+C0451641	Urolithiasis
+C0456103	Sepsis of the newborn
+C0456107	Neonatal meningitis
+C0456909	Blindness
+C0458219	Complex Regional Pain Syndromes
+C0473527	Hypoalphalipoproteinemias
+C0473780	Thrombocytopenia, Neonatal Alloimmune
+C0474368	Labor Pain
+C0475072	Cerebral Hemorrhage, Traumatic
+C0475811	Disorder of keratinization
+C0476089	Endometrial Carcinoma
+C0476254	Dyslexia
+C0494475	Tonic - clonic seizures
+C0497327	Dementia
+C0497406	Overweight
+C0497552	Nervous System Malformations
+C0519030	Pneumonia due to Klebsiella pneumoniae
+C0520459	Enterocolitis, Necrotizing
+C0520577	Urethral atrophy
+C0520676	Premenstrual Dysphoric Disorder
+C0520679	Sleep Apnea, Obstructive
+C0520767	Staphylococcal endocarditis
+C0520775	Klebsiella cystitis
+C0520777	Chlamydial pelvic inflammatory disease
+C0520909	Postoperative Nausea and Vomiting
+C0521170	Osteoporotic Fractures
+C0524620	Metabolic Syndrome X
+C0524637	Recognition (Psychology)
+C0524662	Opiate Addiction
+C0524688	Pneumonic Plague
+C0524702	Pulmonary Thromboembolisms
+C0524801	Retinal Neoplasms
+C0524851	Neurodegenerative Diseases
+C0524909	Hepatitis B, Chronic
+C0524910	Hepatitis C, Chronic
+C0525043	Reactive Attachment Disorder
+C0525045	Mood Disorders
+C0542269	Non-Q wave myocardial infarction
+C0543878	Choreatic Disorders
+C0546127	Mercury Poisoning, Nervous System
+C0546837	Malignant neoplasm of esophagus
+C0546999	Larva Migrans, Cutaneous
+C0549315	Hydatidiform mole, benign
+C0549398	Meibomianitis
+C0549567	Pigmentation Disorders
+C0553580	Ewings sarcoma
+C0553604	Myotonic Disorders
+C0553662	Arthritis, Juvenile Rheumatoid
+C0553730	Chondrocalcinosis
+C0553757	Olfaction Disorders
+C0554628	Streptococcus pyogenes infection
+C0555198	Malignant Glioma
+C0558595	Uric acid renal calculus
+C0559469	Egg Hypersensitivity
+C0559470	Peanut Hypersensitivity
+C0564750	Peripheral arterial embolism
+C0568062	Methotrexate poisoning
+C0572583	Antimetabolite overdose
+C0573789	Heparin overdose
+C0574960	Sacroiliitis
+C0577620	Nut Hypersensitivity
+C0577628	Latex Hypersensitivity
+C0577690	Proteus septicemia
+C0577708	Escherichia coli urinary tract infection
+C0577709	Proteus urinary tract infection
+C0578870	Chronic idiopathic urticaria
+C0581358	Gastric spasm (disorder)
+C0581377	Decompensated cardiac failure
+C0581392	Exacerbation of multiple sclerosis
+C0581883	Deafness
+C0585362	Squamous cell carcinoma of mouth
+C0585442	Osteosarcoma of bone
+C0586323	Alcohol Withdrawal Seizures
+C0588233	Septicemia due to enterococcus
+C0596170	Bulimia Nervosa
+C0596298	Cerebrovascular Occlusion
+C0598608	Hyperhomocysteinemia
+C0600041	Infective cystitis
+C0600142	Hot flushes
+C0600177	Low Cardiac Output Syndrome
+C0600260	Lung Diseases, Obstructive
+C0600433	Activated Protein C Resistance
+C0600467	Neurogenic Inflammation
+C0600498	Anticipation, Genetic
+C0600502	Hemostatic Disorders
+C0600503	Coagulation Protein Disorders
+C0600518	Choroidal Neovascularization
+C0677050	Manganese Poisoning
+C0677607	Hashimoto Disease
+C0678222	Breast Carcinoma
+C0678236	Rare Diseases
+C0679105	Pleasure
+C0680727	Negotiating
+C0683253	Resilience, Psychological
+C0684256	Bacterial sepsis
+C0686068	Secondary malignant neoplasm of stomach
+C0686353	Muscular Dystrophies, Limb-Girdle
+C0686510	Carcinoma in situ of adrenal cortex
+C0687148	Mineral deficiency
+C0687720	Diabetes Insipidus, Neurogenic
+C0700053	Idiopathic hypertrophic subaortic stenosis
+C0700345	Candidiasis, Vulvovaginal
+C0700359	Organophosphate poisoning
+C0700595	Spinal Muscular Atrophies of Childhood
+C0700639	Pyloric Stenosis, Hypertrophic
+C0701163	Adrenogenital disorder
+C0701818	Choledocholithiasis
+C0729524	Bacterial urinary infection
+C0729586	Infective otitis media
+C0729587	Infective blepharitis
+C0730274	Vitreomacular traction syndrome
+C0730285	Diabetic macular edema
+C0730607	Severe chronic obstructive pulmonary disease
+C0733682	Hypophosphatemic Rickets, X-Linked Dominant
+C0740340	Amyloidosis, Familial
+C0740392	Infarction, Middle Cerebral Artery
+C0740394	Hyperuricemia
+C0740447	Diabetic peripheral neuropathy
+C0741292	Paroxysmal atrial flutter
+C0742343	Acute Chest Syndrome
+C0744130	Diabetic foot infection
+C0744451	GONOCOCCAL INFECTION DISSEMINATED
+C0744896	Intractable hiccups
+C0745136	Hypertensive emergency
+C0745138	Hypertensive urgency
+C0745528	Klebsiella sepsis
+C0745744	End Stage Liver Disease
+C0746683	MUSCULOSKELETAL PAIN CHRONIC
+C0748196	PYELONEPHRITIS E COLI
+C0748267	RENAL CALCULUS CALCIUM OXALATE
+C0748540	Scleroderma, Limited
+C0749794	Upper Extremity Deformities, Congenital
+C0749955	URINARY TRACT INFECTION CITROBACTER
+C0749958	URINARY TRACT INFECTION ENTEROCOCCUS
+C0751072	Frontotemporal Lobar Degeneration
+C0751122	Infantile Severe Myoclonic Epilepsy
+C0751362	Narcolepsy-Cataplexy Syndrome
+C0751422	Hereditary Autoinflammatory Diseases
+C0751434	Classical phenylketonuria
+C0751587	CADASIL
+C0751651	Mitochondrial Diseases
+C0751674	Lymphangioleiomyomatosis
+C0751748	Hyperglycinemia, Nonketotic
+C0751753	Carbamoyl-Phosphate Synthase I Deficiency Disease
+C0751757	Hypersomnolence, Idiopathic
+C0751778	Myoclonic Epilepsies, Progressive
+C0751783	Lafora Disease
+C0751792	Trauma, Nervous System
+C0751799	Brain Hemorrhage, Traumatic
+C0751813	Brain Injury, Chronic
+C0751815	Carotid Artery, Internal, Dissection
+C0751830	Gait Disorders, Neurologic
+C0751837	Gait Ataxia
+C0751859	Lead Poisoning, Nervous System
+C0751861	Lead Poisoning, Nervous System, Childhood
+C0751863	Lead Poisoning, Nervous System, Adult
+C0751865	Alcohol-Induced Disorders, Nervous System
+C0751870	Heredodegenerative Disorders, Nervous System
+C0751895	Vasospasm, Intracranial
+C0751911	Paraneoplastic Syndromes, Nervous System
+C0751955	Brain Infarction
+C0751967	Multiple Sclerosis, Relapsing-Remitting
+C0751992	Fetal Weight
+C0752138	Intracranial Arterial Diseases
+C0752140	Intracranial Embolism
+C0752143	Intracranial Thrombosis
+C0752155	Central Nervous System Vascular Malformations
+C0752160	Hemangioma, Cavernous, Central Nervous System
+C0752294	Sleep Arousal Disorders
+C0752308	Hypoxia-Ischemia, Brain
+C0752332	Lupus Vasculitis, Central Nervous System
+C0752347	Lewy Body Disease
+C0752351	Embryo Loss
+C0752352	Muscular Disorders, Atrophic
+C0812413	Malignant Pleural Mesothelioma
+C0836924	Thrombocytosis
+C0848558	Hypospadias
+C0849907	Itching of ear
+C0851578	Sleep Disorders
+C0852077	Blood Coagulation Disorders, Inherited
+C0853852	Cystitis escherichia
+C0853897	Diabetic Cardiomyopathies
+C0854135	Pseudomonas aeruginosa infection
+C0854211	Bacterial keratitis
+C0854215	Bacterial meningitis due to Gram-negative bacteria
+C0854248	Pneumonia due to Gram negative bacteria
+C0854324	Haemophilus sepsis
+C0854328	Infection due to anaerobic bacteria
+C0854528	Endocarditis haemophilus
+C0854723	Retinal Dystrophies
+C0855095	Small Lymphocytic Lymphoma
+C0856695	Acute exacerbation of chronic bronchitis
+C0856761	Budd-Chiari Syndrome
+C0857007	Hyperbilirubinemia, Neonatal
+C0857177	Arthritic pains
+C0857305	Purpura, Thrombocytopenic
+C0857831	Moraxella catarrhalis pneumonia
+C0857846	Legionella pneumophila pneumonia
+C0860048	Septic arthritis haemophilus
+C0860594	Malignant melanoma, metastatic
+C0862889	Superficial basal cell carcinoma
+C0865436	Meningitis due to Bacteroides
+C0866125	Renal disease with edema NOS
+C0870082	Hyperkeratosis
+C0872084	Sarcopenia
+C0877015	Pelvic Organ Prolapse
+C0877131	Urinary tract infection fungal
+C0877445	Candidemia
+C0877633	Haemophilus parainfluenzae pneumonia
+C0877792	Sleep Disorders, Circadian Rhythm
+C0878544	Cardiomyopathies
+C0887833	Carcinoma, Pancreatic Ductal
+C0887976	Chlamydophila Infections
+C0917796	Optic Atrophy, Hereditary, Leber
+C0917798	Cerebral Ischemia
+C0917801	Sleeplessness
+C0919267	Ovarian Neoplasms
+C0919532	Genomic Instability
+C0919659	Oropharyngeal candidiasis
+C0919737	Platelet aggregation inhibition
+C0920269	Microsatellite Instability
+C0920350	Thyroiditis, Autoimmune
+C0935573	Theory of Mind
+C0935584	Executive Function
+C0936215	Vitamin B 6 Deficiency
+C0936223	Metastatic Prostate Carcinoma
+C0947622	Cholecystolithiasis
+C0948008	Ischemic stroke
+C0948031	Primary Graft Dysfunction
+C0948089	Acute Coronary Syndrome
+C0948163	Leukoaraiosis
+C0948205	Infection caused by Enterobacter
+C0948480	Coronary Restenosis
+C0948840	Meningeal Leukemia
+C0948896	Primary hypogonadism
+C0949083	Nosocomial pneumonia
+C0949313	Genetic Determinism
+C0949628	Uniparental Disomy
+C0949658	Cardiomyopathy, Hypertrophic, Familial
+C0949664	Tauopathies
+C0949690	Spondylarthritis
+C0949691	Spondylarthropathies
+C0949760	Personal Autonomy
+C0950121	Denys-Drash Syndrome
+C0950122	Frasier Syndrome
+C0950123	Genetic Diseases, Inborn
+C0950124	Papillomavirus Infections
+C0993582	Arthritis, Experimental
+C1096155	Macrophage Activation Syndrome
+C1096254	Citrobacter sepsis
+C1096258	Enterobacter pneumonia
+C1096562	Peptostreptococcus infection
+C1112209	Intraabdominal Infections
+C1112631	Allergic keratoconjunctivitis
+C1112709	non-gonococcal urethritis (NGU)
+C1134719	Carcinoma, Ductal, Breast
+C1135191	Heart Failure, Systolic
+C1135196	Heart Failure, Diastolic
+C1135868	Gestational Trophoblastic Neoplasms
+C1136033	Mastocytosis, Cutaneous
+C1136249	Mental Retardation, X-Linked
+C1136321	HIV-Associated Lipodystrophy Syndrome
+C1138434	Genetic Diseases, X-Linked
+C1140680	Malignant neoplasm of ovary
+C1142132	Carnitine deficiency
+C1142166	Brugada Syndrome
+C1145628	Autonomic Nervous System Diseases
+C1175175	Severe Acute Respiratory Syndrome
+C1176475	Carcinoma, Ductal
+C1257806	Chromosomal Instability
+C1257915	Intestinal Polyposis
+C1257958	Glucose Metabolism Disorders
+C1258104	Scleroderma, Diffuse
+C1258215	Ileus
+C1260880	Rhinorrhea
+C1260899	Anemia, Diamond-Blackfan
+C1260911	Infection by Pasteurella multocida
+C1260915	Late latent syphilis
+C1260917	Proteus pneumonia
+C1261256	Pelvic inflammatory disease due to Mycoplasma hominis
+C1261287	Constriction, Pathologic
+C1261473	Sarcoma
+C1262117	Fungal keratitis
+C1262211	Diarrhoea predominant irritable bowel syndrome
+C1263758	Female genital tract infection
+C1263846	Attention Deficit Disorder with Hyperactivity
+C1269683	Depressive Disorder, Major
+C1272826	FIGO stage finding for vulvar carcinoma
+C1273489	Asthma night-time symptoms
+C1274321	Recurrent herpes simplex labialis
+C1274323	Recurrent genital herpes simplex
+C1274355	Streptococcal infection of skin
+C1274469	Onychomycosis of fingernails
+C1274470	Onychomycosis of toenails
+C1274988	Drug-induced mucositis
+C1275126	TNF receptor-associated periodic fever syndrome (TRAPS)
+C1275317	Anaplastic large T-cell systemic malignant lymphoma
+C1275684	Meibomian gland dysfunction
+C1275687	Herpes zoster keratitis
+C1276801	Infection due to Erysipelothrix rhusiopathiae (disorder)
+C1278797	Postnatal infection
+C1278807	Chlamydial urethritis
+C1279247	Genitourinary tract infection
+C1282500	Metastasis from malignant tumor of colon
+C1283620	Sucrase-isomaltase deficiency, congenital
+C1285261	Fetal Nutrition Disorders
+C1290159	Subacute bursitis
+C1292758	Precursor T-cell lymphoblastic lymphoma
+C1303258	Acute ST segment elevation myocardial infarction (disorder)
+C1305866	Body Weight
+C1306214	ACTH-Secreting Pituitary Adenoma
+C1306503	Hernia, Umbilical
+C1306632	Primary malignant neoplasm of gastrointestinal tract
+C1306710	Facial Asymmetry
+C1318559	Fusospirochetal pharyngitis
+C1318973	Staphylococcus aureus infection
+C1319317	Squamous cell carcinoma of pharynx
+C1319853	Asthma, Aspirin-Induced
+C1320547	Allergic otitis externa
+C1328252	Leishmaniasis, Mucocutaneous
+C1328840	Autoimmune Lymphoproliferative Syndrome
+C1333991	Lynch Syndrome II
+C1336708	Testicular Germ Cell Tumor
+C1384589	Tinea cruris
+C1384600	Systemic onset juvenile chronic arthritis
+C1384606	Dyspareunia
+C1384666	Hearing Loss
+C1398376	mixed; epileptic
+C1444173	Arthropod bite wound
+C1449861	Micronuclei, Chromosome-Defective
+C1456784	Paranoid Disorders
+C1458155	Breast Neoplasms
+C1510455	Acrocephalosyndactylia
+C1510471	Vitamin Deficiency
+C1510502	Adenoma, Oxyphilic
+C1524060	Psychology
+C1527311	Brain Edema
+C1527336	Sjogren's Syndrome
+C1527348	Hypoxia, Brain
+C1527383	Morphea
+C1527407	Eosinophilic Pneumonia
+C1535478	Granulomatosis infantiseptica
+C1536085	Geographic Atrophy
+C1561828	Anemia in chronic kidney disease
+C1562029	Hormone receptor positive malignant neoplasm of breast
+C1562430	Muscle spasticity of spinal origin
+C1562543	Ocular histoplasmosis syndrome
+C1562585	Leprosy, Multibacillary
+C1562908	Leprosy, Paucibacillary
+C1563054	Dapsone resistant mycobacterium leprae disease
+C1563696	DNA Repair-Deficiency Disorders
+C1563716	Thyroid Dysgenesis
+C1565107	Headache Disorders, Secondary
+C1565662	Renal Insufficiency, Acute
+C1566590	Delayed Graft Function
+C1568272	Tendinopathy
+C1609538	Latent Tuberculosis
+C1621958	Glioblastoma Multiforme
+C1623040	Breastfeeding (mother)
+C1632842	Complicated appendicitis
+C1636205	Rhinocerebral phycomycosis
+C1691228	Kidney Diseases, Cystic
+C1692886	Arthritis, Bacterial
+C1696708	Prehypertension
+C1701940	Pneumonia, Ventilator-Associated
+C1704231	Metastatic Malignant Neoplasm to the Leptomeninges
+C1704373	Compulsive Personality Disorder
+C1704431	Disorder of electrolytes
+C1704436	Peripheral Arterial Disease
+C1719906	Meningitis due to Klebsiella mobilis
+C1720498	Toxoplasmosis associated with AIDS
+C1720777	Functional Laterality
+C1720797	Chronic Bacterial Prostatitis
+C1720894	Male Urogenital Diseases
+C1720983	Channelopathies
+C1721093	DNA Degradation, Necrotic
+C1739363	Prostatic Hyperplasia
+C1739382	Chronic iron overload
+C1739395	Takotsubo Cardiomyopathy
+C1761609	Aspiration pneumonitis
+C1800706	Idiopathic Pulmonary Fibrosis
+C1827266	Decompensated chronic heart failure
+C1827687	Chemotherapy-induced neutropenia
+C1828079	Dementia associated with Parkinson's Disease
+C1849508	EPILEPSY, PYRIDOXINE-DEPENDENT
+C1868889	Irritable bowel syndrome characterized by constipation
+C1955869	Malformations of Cortical Development
+C1956089	Osteophyte
+C1956346	Coronary artery disease
+C1959620	Dihydropyrimidine Dehydrogenase Deficiency
+C1959799	Calcium renal calculus
+C1960397	Philadelphia chromosome-positive acute lymphoblastic leukemia
+C1960398	HER2-positive carcinoma of breast
+C1960764	Crohn's disease in remission
+C1960924	Right-sided Staphylococcus aureus endocarditis
+C1960925	Epidermal growth factor receptor positive non-small cell lung cancer
+C1961099	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+C1961112	Heart Decompensation
+C1961835	Gaucher Disease, Type 1
+C1997322	Chlamydia trachomatis infection of genital structure
+C1997728	Osteomyelitis due to Staphylococcus aureus
+C1998329	Anemia due to chemotherapy
+C2028293	Haemophilus influenzae type b infection
+C2062454	Bacteroides empyema
+C2062475	pharyngitis due to Haemophilus influenzae
+C2062982	candidal peritonitis
+C2215257	Acute postoperative pain
+C2237660	Wet Macular Degeneration
+C2239176	Liver carcinoma
+C2242472	Infection of bone
+C2267227	Bulimia Nervosa
+C2267231	Chronic idiopathic neutropenia
+C2316212	Cryopyrin-associated Periodic Syndromes
+C2316304	Human epidermal growth factor 2 negative carcinoma of breast
+C2316460	Pseudobulbar affect
+C2349530	Pneumonia due to Staphylococcus aureus
+C2349994	Tinea barbae
+C2350236	Idiopathic Interstitial Pneumonias
+C2350520	Olfactory Perception
+C2350521	Taste Perception
+C2363973	Chronic thromboembolic pulmonary hypertension
+C2584877	Hereditary factor XIII A subunit deficiency
+C2585890	Nonsquamous nonsmall cell neoplasm of lung
+C2607914	Allergic rhinitis (disorder)
+C2609414	Acute Kidney Injury
+C2677857	Facial hyperpigmentation
+C2697932	Loeys-Dietz Syndrome
+C2711180	Influenza due to Influenza A virus
+C2711256	Ischemic priapism
+C2711653	Epilepsy characterized by intractable complex partial seizures
+C2717792	Airway Remodeling
+C2717899	Upper Extremity Deep Vein Thrombosis
+C2717961	Thrombotic Microangiopathies
+C2718024	Stroop Test
+C2733595	Pulmonary Mycobacterium avium complex infection
+C2751824	46, XY Disorders of Sex Development
+C2887088	Sepsis due to Staphylococcus aureus
+C2887096	Sepsis due to Pseudomonas
+C2894027	Post traumatic osteoarthritis
+C2919522	Congenital hemolytic uremic syndrome
+C2931187	Nephropathic cystinosis
+C2936258	Peri-Implantitis
+C2936329	Asymptomatic Diseases
+C2936349	Plaque, Amyloid
+C2936350	Plaque, Atherosclerotic
+C2936403	46, XX Disorders of Sex Development
+C2936423	Echogenic Bowel
+C2936781	Generalized Myotonia of Thomsen
+C2937222	Chronic ulcerative proctitis
+C2937225	Biotin deficiency disease
+C2960008	Fungal septicemia
+C2973725	Pulmonary arterial hypertension
+C3163805	Malignant epithelial neoplasm of female breast
+C3163829	Sepsis due to Gram negative bacteria
+C3163899	Squamous cell carcinoma of nose
+C3163939	Malignant epithelial neoplasm of thyroid
+C3203356	Factor II deficiency
+C3495559	Juvenile arthritis
+C3536984	Vitamin D-Resistant Rickets, X-Linked
+C3544321	Treatment-resistant schizophrenia
+C3661921	Perioperative hypertension
+C3665800	Streptococcal endocarditis
+C3665869	Pseudomonas aeruginosa meningitis
+C3697010	Ulcerative colitis in remission
+C3698411	Asymptomatic left ventricular systolic dysfunction
+C3854116	Lipodystrophy due to Human immunodeficiency virus infection and antiretroviral therapy
+C3875286	Complex dyslipidemia
+C3875321	Inflammatory dermatosis
+C3898069	Osteolytic Lesions of Multiple Myeloma
+C4038730	Asthma-chronic obstructive pulmonary disease overlap syndrome
+C4083212	Alopecia, Male Pattern
